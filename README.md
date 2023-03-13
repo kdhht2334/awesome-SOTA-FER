@@ -84,10 +84,15 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
-| [Optimal Transport-based Identity Matching for Identity-invariant Facial Expression Recognition](https://arxiv.org/pdf/2209.12172.pdf) | NeurIPS | ⭐️⭐️⭐️ | [PyTorch](https://github.com/kdhht2334/ELIM_FER) |
+| [Optimal Transport-based Identity Matching for Identity-invariant Facial Expression Recognition](https://arxiv.org/pdf/2209.12172.pdf) | NeurIPS<br>(spotlight) | ⭐️⭐️⭐️ | [PyTorch](https://github.com/kdhht2334/ELIM_FER) |
+| [Emotion-aware Multi-view Contrastive Learning for Faciel Emotion Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730181.pdf) | ECCV | ⭐️ | [PyTorch](https://github.com/kdhht2334/AVCE_FER) |
 
 
 #### 2021 <a id="2021-ae"></a>
+
+| Paper | Venue | Impact | Code |
+| :---  | :---: | :---:  | :---:|
+| [Contrastive Adversarial Learning for Person Independent Facial Emotion Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/16743) | AAAI | ⭐️ | [PyTorch](https://github.com/kdhht2334/Contrastive-Adversarial-Learning-FER) |
 
 #### 2020 <a id="2020-ae"></a>
 
@@ -112,7 +117,7 @@ Please feel free to refer this repository for your FER research/development and 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
 | [Sparse to Dense Dynamic 3D Facial Expression Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Otberdout_Sparse_to_Dense_Dynamic_3D_Facial_Expression_Generation_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | [GitHub](https://github.com/CRISTAL-3DSAM/Sparse2Dense) |
-| [Neural Emotion Director: Speech-preserving semantic control of facial expressions in “in-the-wild” videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Papantoniou_Neural_Emotion_Director_Speech-Preserving_Semantic_Control_of_Facial_Expressions_in_CVPR_2022_paper.pdf) | CVPR (best paper finalist) | 2022 | ⭐️⭐️⭐️ | [Site](https://foivospar.github.io/NED/) |
+| [Neural Emotion Director: Speech-preserving semantic control of facial expressions in “in-the-wild” videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Papantoniou_Neural_Emotion_Director_Speech-Preserving_Semantic_Control_of_Facial_Expressions_in_CVPR_2022_paper.pdf) | CVPR<br>(best paper finalist) | 2022 | ⭐️⭐️⭐️ | [Site](https://foivospar.github.io/NED/) |
 | [Information Bottlenecked Variational Autoencoder for Disentangled 3D Facial Expression Modelling](https://openaccess.thecvf.com/content/WACV2022/papers/Sun_Information_Bottlenecked_Variational_Autoencoder_for_Disentangled_3D_Facial_Expression_Modelling_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Detection and Localization of Facial Expression Manipulations](https://openaccess.thecvf.com/content/WACV2022/papers/Mazaheri_Detection_and_Localization_of_Facial_Expression_Manipulations_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Audio-Driven Emotional Video Portraits](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Audio-Driven_Emotional_Video_Portraits_CVPR_2021_paper.pdf) | CVPR | 2021 | ⭐️ | [Site](https://jixinya.github.io/projects/evp/) |
@@ -126,17 +131,19 @@ Please feel free to refer this repository for your FER research/development and 
 | [Multi-Dimensional, Nuanced and Subjective – Measuring the Perception of Facial Expressions](https://openaccess.thecvf.com/content/CVPR2022/papers/Bryant_Multi-Dimensional_Nuanced_and_Subjective_-_Measuring_the_Perception_of_Facial_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | N/A |
 | [Quantified Facial Expressiveness for Affective Behavior Analytics](https://openaccess.thecvf.com/content/WACV2022/papers/Uddin_Quantified_Facial_Expressiveness_for_Affective_Behavior_Analytics_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emotion Analysis](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_iMiGUE_An_Identity-Free_Video_Dataset_for_Micro-Gesture_Understanding_and_Emotion_CVPR_2021_paper.pdf) | CVPR | 2021 | ⭐️ | [Data](https://github.com/linuxsino/iMiGUE) |
+| [Hidden Emotion Detection using Multi-modal Signals](https://dl.acm.org/doi/pdf/10.1145/3411763.3451721) | CHI | 2021 | ⭐️⭐️ | [Data](https://github.com/kdhht2334/Hidden_Emotion_Detection_using_MM_Signals) |
 | [FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/pdf/1803.09179.pdf) | ArXiv | 2018 | ⭐️⭐️⭐️ | [Site](http://niessnerlab.org/projects/roessler2018faceforensics.html) |
+
 
 ### Challenges <a id="challenges"></a>
 
 | Name | Venue | Year | Site |
 | :--- | :---: | :---:| :---:|
-| Facial Expression Recognition and Analysis Challenge 2015 | FG | 2015 | [Site](https://ibug.doc.ic.ac.uk/resources/FERA15/) |
+| Facial Expression Recognition and Analysis Challenge | FG | 2015 | [Site](https://ibug.doc.ic.ac.uk/resources/FERA15/) |
 | Emotion Recognition in the Wild Challenge (EmotiW) | ICMI | 2013-2018 | [Site](https://sites.google.com/view/emotiw2018) |
 | Affect Recognition in-the-wild: Uni/Multi-Modal Analysis & VA-AU-Expression Challenges | FG | 2020 | [Site](https://ibug.doc.ic.ac.uk/resources/affect-recognition-wild-unimulti-modal-analysis-va/) |
 | Affective Behavior Analysis In-the-Wild (1st) | FG | 2020 | [Site](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/) |
 | Affective Behavior Analysis In-the-Wild (2nd) | ICCV | 2021 | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2022-3rd-abaw/) [Papers](https://openaccess.thecvf.com/ICCV2021_workshops/ABAW) |
 | Affective Behavior Analysis In-the-Wild (3rd) | CVPR | 2022 | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2022-3rd-abaw/) [Papers](https://openaccess.thecvf.com/CVPR2022_workshops/ABAW) |
 | Affective Behavior Analysis In-the-Wild (4th) | ECCV | 2022 | [Site](https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/) |
-| Affective Behavior Analysis In-the-Wild (5th) | CVPR | 2023 | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/) |
+| Affective Behavior Analysis In-the-Wild (5th) | CVPR | 2023<br>(not yet) | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/) |

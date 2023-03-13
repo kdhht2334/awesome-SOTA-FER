@@ -15,7 +15,6 @@ Please feel free to refer this repository for your FER research/development and 
     - [2021](#2021-c)
     - [2020](#2020-c)
   - Valence-arousal Affect Estimation
-    - [2023](#2023-ae)
     - [2022](#2022-ae)
     - [2021](#2021-ae)
     - [2020](#2020-ae)
@@ -65,7 +64,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
-[TransFER: Learning Relation-aware Facial Expression Representations with Transformers](https://openaccess.thecvf.com/content/ICCV2021/papers/Xue_TransFER_Learning_Relation-Aware_Facial_Expression_Representations_With_Transformers_ICCV_2021_paper.pdf) | ICCV | ⭐️⭐️ | N/A |
+| [TransFER: Learning Relation-aware Facial Expression Representations with Transformers](https://openaccess.thecvf.com/content/ICCV2021/papers/Xue_TransFER_Learning_Relation-Aware_Facial_Expression_Representations_With_Transformers_ICCV_2021_paper.pdf) | ICCV | ⭐️⭐️ | N/A |
 | [Understanding and Mitigating Annotation Bias in Facial Expression Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Understanding_and_Mitigating_Annotation_Bias_in_Facial_Expression_Recognition_ICCV_2021_paper.pdf) | ICCV | ⭐️ | N/A |
 | [Dive into Ambiguity: Latent Distribution Mining and Pairwise Uncertainty Estimation for Facial Expression Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Dive_Into_Ambiguity_Latent_Distribution_Mining_and_Pairwise_Uncertainty_Estimation_CVPR_2021_paper.pdf) | CVPR | ⭐️⭐️⭐️ | [PyTorch](https://github.com/JDAI-CV/FaceX-Zoo/tree/main/addition_module/DMUE) |
 | [Affective Processes: stochastic modelling of temporal context for emotion and facial expression recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Sanchez_Affective_Processes_Stochastic_Modelling_of_Temporal_Context_for_Emotion_and_CVPR_2021_paper.pdf) | CVPR | ⭐️⭐️ | N/A |
@@ -81,15 +80,12 @@ Please feel free to refer this repository for your FER research/development and 
 
 ### Valence-arousal Affect Estimation
 
-#### 2023 <a id="2023-ae"></a>
+#### 2022 <a id="2022-ae"></a>
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
-| Optimal Transport-based Identity Matching for Identity-invariant Facial Expression Recognition | NeurIPS | ⭐️⭐️⭐️ | [PyTorch](https://github.com/kdhht2334/ELIM_FER) |
-| ddd
+| [Optimal Transport-based Identity Matching for Identity-invariant Facial Expression Recognition](https://arxiv.org/pdf/2209.12172.pdf) | NeurIPS | ⭐️⭐️⭐️ | [PyTorch](https://github.com/kdhht2334/ELIM_FER) |
 
-
-#### 2022 <a id="2022-ae"></a>
 
 #### 2021 <a id="2021-ae"></a>
 
@@ -102,7 +98,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
-| FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection | WACV | ⭐️ | N/A |
+| [FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_FAN-Trans_Online_Knowledge_Distillation_for_Facial_Action_Unit_Detection_WACV_2023_paper.pdf) | WACV | ⭐️ | N/A |
 
 #### 2022 <a id="2022-au"></a>
 

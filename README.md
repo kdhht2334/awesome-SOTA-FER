@@ -21,12 +21,11 @@ Please feel free to refer this repository for your FER research/development and 
 
 ## Table of Contents
 
-- [SOTA Papers](#sota-paper)
-  - 7-Emotion Classification
-    - [2023](#2023-c)
-    - [2022](#2022-c)
-    - [2021](#2021-c)
-    - [2020](#2020-c)
+- [7-Emotion Classification](#seven-emotion)
+  - [2023](#2023-c)
+  - [2022](#2022-c)
+  - [2021](#2021-c)
+  - [2020](#2020-c)
 
 - [Valence-arousal Affect Estimation](#affect)
 
@@ -38,17 +37,15 @@ Please feel free to refer this repository for your FER research/development and 
     
 - [Emotion Theory, Survey, and Dataset](#th-s-db)
 
-- [Previous Papers (2020~)](#previous)
+- [Previous Papers (2019~)](#previous)
 
 - [Challenges](#challenges)
   
-- [Bench-marking Results](#benchmarking)
+- [Bench-marking Results](#benchmarking) (not yet)
 
 
 
-## SOTA Papers <a id="sota-paper"></a>
-
-### 7-Emotion Classification
+## 7-Emotion Classification <a id="seven-emotion"></a>
 
 #### 2023 <a id="2023-c"></a>
 
@@ -192,7 +189,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [A circumplex model of affect](https://d1wqtxts1xzle7.cloudfront.net/38425675/Russell1980-libre.pdf?1439132613=&response-content-disposition=inline%3B+filename%3DRussell1980.pdf&Expires=1678728266&Signature=JLK-DCUZNrH3iP-f3l5kB4uxUV~VUIhB04KfodmthXNX8n07xP1qkQ8ghjD0xtJR68zGUpp~19S2mOlPPBILqURiMV0iRcYUkqNoydOt~He463YsZAWMp105JjJfe40vGP-mmh~p5Ba~x3tTjtHx5fGPX~r15bnRhsjF7Q8~qC4L9m8DX1l3V0XCgQ97Ry5hhzGLTnKuDbHdMPkrkNRC598ibi4Pe54yrzYA0HoBaM-x4M1fak~tq6zt4lfMbVVeP2aQvVYzEWOLzO60J5zYqot9gdRyXuTl0lvqUB~BIspke1ZE7q2pm89~ZkoxYHGu7hg32PnfAXtj4fa6Q-NYMA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) | Journal of Personality and Social Psychology | 1980 | 🏆 | N/A |
 
 
-### Previous Papers (2020~) <a id="previous"></a>
+### Previous Papers (2019~) <a id="previous"></a>
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|

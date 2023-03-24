@@ -1,4 +1,6 @@
 # awesome-SOTA-FER
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of facial expression recognition in both 7-emotion classification and affect estimation. In addition, this repository includes basic studies on FER and recent datasets.
 
 👀 Update frequently!
@@ -41,7 +43,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 - [Challenges](#challenges)
   
-- [Bench-marking Results](#benchmarking) (not yet)
+- [Tools](#tools)
 
 
 
@@ -69,6 +71,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Revisiting Self-Supervised Contrastive Learning for Facial Expression Recognition](https://arxiv.org/pdf/2210.03853.pdf) | BMVC | ⭐️ | [Site](https://claudiashu.github.io/SSLFER/) |
 | [Cluster-level pseudo-labelling for source-free cross-domain facial expression recognition](https://arxiv.org/pdf/2210.05246.pdf) | BMVC | ⭐️⭐️ | [PyTorch](https://github.com/altndrr/clup) |
 | [Analysis of Semi-Supervised Methods for Facial Expression Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9953876&casa_token=RptxgdB8SrEAAAAA:maVFJFxUaED8NbBbIFLjn4HCTNqQhXR6dSXN1NgWaUkQgXimVX9-8WLx-Ob9Zk0i4GL5eCEAeA) | ACII | ⭐️ | [GitHub](https://github.com/ShuvenduRoy/SSL) |
+| [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) | ArXiv | 2022 | ⭐️ | [GitHub](https://github.com/zczcwh/POSTER) |
 
 #### 2021 <a id="2021-c"></a>
 
@@ -149,10 +152,12 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://openaccess.thecvf.com/content/CVPR2022/papers/Danecek_EMOCA_Emotion_Driven_Monocular_Face_Capture_and_Animation_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [Project](https://emoca.is.tue.mpg.de/) |
 | [Sparse to Dense Dynamic 3D Facial Expression Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Otberdout_Sparse_to_Dense_Dynamic_3D_Facial_Expression_Generation_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | [GitHub](https://github.com/CRISTAL-3DSAM/Sparse2Dense) |
 | [Neural Emotion Director: Speech-preserving semantic control of facial expressions in “in-the-wild” videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Papantoniou_Neural_Emotion_Director_Speech-Preserving_Semantic_Control_of_Facial_Expressions_in_CVPR_2022_paper.pdf) | CVPR</br>(best paper finalist) | 2022 | ⭐️⭐️⭐️ | [Site](https://foivospar.github.io/NED/) |
 | [Information Bottlenecked Variational Autoencoder for Disentangled 3D Facial Expression Modelling](https://openaccess.thecvf.com/content/WACV2022/papers/Sun_Information_Bottlenecked_Variational_Autoencoder_for_Disentangled_3D_Facial_Expression_Modelling_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Detection and Localization of Facial Expression Manipulations](https://openaccess.thecvf.com/content/WACV2022/papers/Mazaheri_Detection_and_Localization_of_Facial_Expression_Manipulations_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
+| [Learning an Animatable Detailed 3D Face Model from In-The-Wild Images](https://arxiv.org/pdf/2012.04012) | SIGGRAPH | 2021 | ⭐️⭐️⭐️ | [Project](https://deca.is.tue.mpg.de/) |
 | [Audio-Driven Emotional Video Portraits](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Audio-Driven_Emotional_Video_Portraits_CVPR_2021_paper.pdf) | CVPR | 2021 | ⭐️ | [Site](https://jixinya.github.io/projects/evp/) |
 | [GANmut: Learning Interpretable Conditional Space for Gamut of Emotions](https://openaccess.thecvf.com/content/CVPR2021/papers/dApolito_GANmut_Learning_Interpretable_Conditional_Space_for_Gamut_of_Emotions_CVPR_2021_paper.pdf) | CVPR | 2021 | ⭐️⭐️ | [PyTorch](https://github.com/stefanodapolito/GANmut) |
 | [3D Dense Geometry-Guided Facial Expression Synthesis by Adversarial Learning](https://openaccess.thecvf.com/content/WACV2021/papers/Bodur_3D_Dense_Geometry-Guided_Facial_Expression_Synthesis_by_Adversarial_Learning_WACV_2021_paper.pdf) | WACV | 2021 | ⭐️ | N/A |
@@ -218,6 +223,13 @@ Please feel free to refer this repository for your FER research/development and 
 | Affective Behavior Analysis In-the-Wild (4th) | ECCV | 2022 | [Site](https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/) |
 | The Multimodal Sentiment Analysis Challenge (MuSe) | ACM MM | 2022 | [Site](https://www.muse-challenge.org/) [Paper](https://arxiv.org/pdf/2207.05691.pdf) | 
 | Affective Behavior Analysis In-the-Wild (5th) | CVPR | 2023</br>(not yet) | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/) |
+
+
+### Tools <a id="tools"></a>
+
+| Name | Paper | Site |
+| :--- | :---: | :---:|
+| FLAME | [Learning a model of facial shape and expression from 4D scans](https://dl.acm.org/doi/pdf/10.1145/3130800.3130813) | [Project](https://flame.is.tue.mpg.de/) [TensorFlow](https://github.com/TimoBolkart/TF_FLAME) [PyTorch](https://github.com/HavenFeng/photometric_optimization)
 
 
 

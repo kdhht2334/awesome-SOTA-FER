@@ -31,13 +31,13 @@ Please feel free to refer this repository for your FER research/development and 
 
 - [Valence-arousal Affect Estimation](#affect)
 
-- [Facial Action Unit (AU) Detection](#au)
+- [Facial Action Unit (AU) Detection / Recognition](#au)
 
 - [Privacy-aware Facial Expression Recognition](#privacy)
     
 - [Facial Expression Manipulation](#fem)
     
-- [Emotion Theory, Survey, and Dataset](#th-s-db)
+- [Emotion Theory, Facial Representations, and Dataset](#th-fr-o)
 
 - [Previous Papers (2019~)](#previous)
 
@@ -120,13 +120,15 @@ Please feel free to refer this repository for your FER research/development and 
 | [BReG-NeXt: Facial affect computing using adaptive residual networks with bounded gradient](https://ieeexplore.ieee.org/iel7/5165369/5520654/09064942.pdf?casa_token=mmeTU4Eqv6IAAAAA:m6rR6FVdNZhuuxcTA5G8z5j2h28hnm5zE3FtgkEJOeXUfT818fM501SzCIoJ_aHmx6yGWHE78w) | IEEE TAC | 2020 | ⭐️⭐️ | [TensorFlow](https://github.com/behzadhsni/BReG-NeXt) |
 
 
-### Facial Action Unit (AU) Detection <a id="au"></a>
+### Facial Action Unit (AU) Detection / Recognition <a id="au"></a>
 
-  - Papers about `Facial AU Detection` will be uploaded soon.
+  - This section also contains `landmark` detection.
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
 | [FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_FAN-Trans_Online_Knowledge_Distillation_for_Facial_Action_Unit_Detection_WACV_2023_paper.pdf) | WACV | 2023 | ⭐️ | N/A |
+| [Knowledge-Driven Self-Supervised Representation Learning for Facial Action Unit Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_Knowledge-Driven_Self-Supervised_Representation_Learning_for_Facial_Action_Unit_Recognition_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | N/A |
+| [Towards Accurate Facial Landmark Detection via Cascaded Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_Accurate_Facial_Landmark_Detection_via_Cascaded_Transformers_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | N/A |
 | [Causal intervention for subject-deconfounded facial action unit recognition](https://ojs.aaai.org/index.php/AAAI/article/view/19914/19673) | AAAI</br>(Oral) | 2022 | ⭐️⭐️⭐️ | N/A |
 
 
@@ -139,6 +141,7 @@ Please feel free to refer this repository for your FER research/development and 
 | :---  | :---: | :---:| :---:  | :---:|
 | [Simulated adversarial testing of face recognition models](https://openaccess.thecvf.com/content/CVPR2022/papers/Ruiz_Simulated_Adversarial_Testing_of_Face_Recognition_Models_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | N/A|
 | [Exploring frequency adversarial attacks for face forgery detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Exploring_Frequency_Adversarial_Attacks_for_Face_Forgery_Detection_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | N/A |
+| [Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Protecting_Facial_Privacy_Generating_Adversarial_Identity_Masks_via_Style-Robust_Makeup_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/CGCL-codes/AMT-GAN) |
 | [Privacy-Preserving Face Recognition with Learnable Privacy Budgets in Frequency Domain](https://arxiv.org/pdf/2207.07316.pdf) | ECCV | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/Tencent/TFace/tree/master/recognition/tasks/dctdp) |
 | [DuetFace: Collaborative Privacy-Preserving Face Recognition via Channel Splitting in the Frequency Domain](https://dl.acm.org/doi/abs/10.1145/3503161.3548303) | ACM MM | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/Tencent/TFace/tree/master/recognition/tasks/duetface) |
 | [AdverFacial: Privacy-Preserving Universal Adversarial Perturbation Against Facial Micro-Expression Leakages](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9746848&casa_token=8uyq2J9NQV0AAAAA:qfLmtAMVlhrEv7AX76W8tkVadwZUo1ZDZuTjWB4FOjCwpUf0qRaSg6LshZ-1AYmF_JMr6_bRBQ) | ICASSP | 2022 | ⭐️ | N/A |
@@ -155,6 +158,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://openaccess.thecvf.com/content/CVPR2022/papers/Danecek_EMOCA_Emotion_Driven_Monocular_Face_Capture_and_Animation_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [Project](https://emoca.is.tue.mpg.de/) |
 | [Sparse to Dense Dynamic 3D Facial Expression Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Otberdout_Sparse_to_Dense_Dynamic_3D_Facial_Expression_Generation_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | [GitHub](https://github.com/CRISTAL-3DSAM/Sparse2Dense) |
 | [Neural Emotion Director: Speech-preserving semantic control of facial expressions in “in-the-wild” videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Papantoniou_Neural_Emotion_Director_Speech-Preserving_Semantic_Control_of_Facial_Expressions_in_CVPR_2022_paper.pdf) | CVPR</br>(best paper finalist) | 2022 | ⭐️⭐️⭐️ | [Site](https://foivospar.github.io/NED/) |
+| [TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_TransEditor_Transformer-Based_Dual-Space_GAN_for_Highly_Controllable_Facial_Editing_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/BillyXYB/TransEditor) |
 | [Information Bottlenecked Variational Autoencoder for Disentangled 3D Facial Expression Modelling](https://openaccess.thecvf.com/content/WACV2022/papers/Sun_Information_Bottlenecked_Variational_Autoencoder_for_Disentangled_3D_Facial_Expression_Modelling_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Detection and Localization of Facial Expression Manipulations](https://openaccess.thecvf.com/content/WACV2022/papers/Mazaheri_Detection_and_Localization_of_Facial_Expression_Manipulations_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Learning an Animatable Detailed 3D Face Model from In-The-Wild Images](https://arxiv.org/pdf/2012.04012) | SIGGRAPH | 2021 | ⭐️⭐️⭐️ | [Project](https://deca.is.tue.mpg.de/) |
@@ -165,13 +169,15 @@ Please feel free to refer this repository for your FER research/development and 
 | [Interpreting the latent space of gans for semantic face editing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.pdf) | CVPR | 2020 | ⭐️⭐️⭐️ | [TensorFlow](https://github.com/genforce/interfacegan) |
 
 
-### Emotion Theory, Survey, and Dataset <a id="th-s-db"></a>
+### Emotion Theory, Facial Representations, and Others <a id="th-fr-o"></a>
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
 | [More is Better: A Database for Spontaneous Micro-Expression with High Frame Rates](https://arxiv.org/pdf/2301.00985.pdf) | ArXiv | 2023 | ⭐️ | N/A |
 | [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_FERV39k_A_Large-Scale_Multi-Scene_Dataset_for_Facial_Expression_Recognition_in_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | [Data](https://github.com/wangyanckxx/FERV39k) |
 | [Multi-Dimensional, Nuanced and Subjective – Measuring the Perception of Facial Expressions](https://openaccess.thecvf.com/content/CVPR2022/papers/Bryant_Multi-Dimensional_Nuanced_and_Subjective_-_Measuring_the_Perception_of_Facial_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | N/A |
+| [General Facial Representation Learning in a Visual-Linguistic Manner](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_General_Facial_Representation_Learning_in_a_Visual-Linguistic_Manner_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/faceperceiver/farl) |
+| [Robust Egocentric Photo-realistic Facial Expression Transfer for Virtual Reality](https://openaccess.thecvf.com/content/CVPR2022/papers/Jourabloo_Robust_Egocentric_Photo-Realistic_Facial_Expression_Transfer_for_Virtual_Reality_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | N/A |
 | [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](https://arxiv.org/pdf/2208.00847) | ACM MM | 2022 | ⭐️ | [Site](https://mafw-database.github.io/MAFW/) |
 | [Quantified Facial Expressiveness for Affective Behavior Analytics](https://openaccess.thecvf.com/content/WACV2022/papers/Uddin_Quantified_Facial_Expressiveness_for_Affective_Behavior_Analytics_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Deep facial expression recognition: A survey](https://ieeexplore.ieee.org/iel7/5165369/5520654/09039580.pdf?casa_token=CAh7bbilIRMAAAAA:EI5iTZcdsqualuSwzc1Zrk7DgNI8aHgJJ5MYZ2R9RM3r3CHQWkimHChANibA9olNRYthY2ShZg) | IEEE TAC | 2020 | 🏆 | N/A |

@@ -37,13 +37,13 @@ Please feel free to refer this repository for your FER research/development and 
     
 - [Facial Expression Manipulation](#fem)
     
-- [Emotion Theory, Facial Representations, and Dataset](#th-fr-o)
-
-- [Previous Papers (2019~)](#previous)
+- [Emotion Theory, Facial Representations, and Others](#th-fr-o)
 
 - [Challenges](#challenges)
   
 - [Tools](#tools)
+
+- [Previous Papers (2019~)](#previous)
 
 
 
@@ -130,6 +130,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Knowledge-Driven Self-Supervised Representation Learning for Facial Action Unit Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_Knowledge-Driven_Self-Supervised_Representation_Learning_for_Facial_Action_Unit_Recognition_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | N/A |
 | [Towards Accurate Facial Landmark Detection via Cascaded Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_Accurate_Facial_Landmark_Detection_via_Cascaded_Transformers_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | N/A |
 | [Causal intervention for subject-deconfounded facial action unit recognition](https://ojs.aaai.org/index.php/AAAI/article/view/19914/19673) | AAAI</br>(Oral) | 2022 | ⭐️⭐️⭐️ | N/A |
+| [PIAP-DF: Pixel-Interested and Anti Person-Specific Facial Action Unit Detection Net with Discrete Feedback Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Tang_PIAP-DF_Pixel-Interested_and_Anti_Person-Specific_Facial_Action_Unit_Detection_Net_ICCV_2021_paper.pdf) | ICCV | 2021 | ⭐️ | N/A |
 
 
 ### Privacy-aware Facial Expression Recognition <a id="privacy"></a>
@@ -163,6 +164,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Information Bottlenecked Variational Autoencoder for Disentangled 3D Facial Expression Modelling](https://openaccess.thecvf.com/content/WACV2022/papers/Sun_Information_Bottlenecked_Variational_Autoencoder_for_Disentangled_3D_Facial_Expression_Modelling_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Detection and Localization of Facial Expression Manipulations](https://openaccess.thecvf.com/content/WACV2022/papers/Mazaheri_Detection_and_Localization_of_Facial_Expression_Manipulations_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Learning an Animatable Detailed 3D Face Model from In-The-Wild Images](https://arxiv.org/pdf/2012.04012) | SIGGRAPH | 2021 | ⭐️⭐️⭐️ | [Project](https://deca.is.tue.mpg.de/) |
+| [Talk-to-Edit: Fine-Grained Facial Editing via Dialog](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_Talk-To-Edit_Fine-Grained_Facial_Editing_via_Dialog_ICCV_2021_paper.pdf) | ICCV | 2021 | ⭐️⭐️ | [PyTorch](https://github.com/yumingj/Talk-to-Edit) |
 | [Audio-Driven Emotional Video Portraits](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Audio-Driven_Emotional_Video_Portraits_CVPR_2021_paper.pdf) | CVPR | 2021 | ⭐️ | [Site](https://jixinya.github.io/projects/evp/) |
 | [GANmut: Learning Interpretable Conditional Space for Gamut of Emotions](https://openaccess.thecvf.com/content/CVPR2021/papers/dApolito_GANmut_Learning_Interpretable_Conditional_Space_for_Gamut_of_Emotions_CVPR_2021_paper.pdf) | CVPR | 2021 | ⭐️⭐️ | [PyTorch](https://github.com/stefanodapolito/GANmut) |
 | [3D Dense Geometry-Guided Facial Expression Synthesis by Adversarial Learning](https://openaccess.thecvf.com/content/WACV2021/papers/Bodur_3D_Dense_Geometry-Guided_Facial_Expression_Synthesis_by_Adversarial_Learning_WACV_2021_paper.pdf) | WACV | 2021 | ⭐️ | N/A |
@@ -175,6 +177,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Context De-confounded Emotion Recognition](https://arxiv.org/pdf/2303.11921.pdf) | CVPR | 2023 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/ydk122024/CCIM) |
 | [More is Better: A Database for Spontaneous Micro-Expression with High Frame Rates](https://arxiv.org/pdf/2301.00985.pdf) | ArXiv | 2023 | ⭐️ | N/A |
 | [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_FERV39k_A_Large-Scale_Multi-Scene_Dataset_for_Facial_Expression_Recognition_in_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | [Data](https://github.com/wangyanckxx/FERV39k) |
 | [Multi-Dimensional, Nuanced and Subjective – Measuring the Perception of Facial Expressions](https://openaccess.thecvf.com/content/CVPR2022/papers/Bryant_Multi-Dimensional_Nuanced_and_Subjective_-_Measuring_the_Perception_of_Facial_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | N/A |
@@ -204,22 +207,6 @@ Please feel free to refer this repository for your FER research/development and 
 | [A circumplex model of affect](https://d1wqtxts1xzle7.cloudfront.net/38425675/Russell1980-libre.pdf?1439132613=&response-content-disposition=inline%3B+filename%3DRussell1980.pdf&Expires=1678728266&Signature=JLK-DCUZNrH3iP-f3l5kB4uxUV~VUIhB04KfodmthXNX8n07xP1qkQ8ghjD0xtJR68zGUpp~19S2mOlPPBILqURiMV0iRcYUkqNoydOt~He463YsZAWMp105JjJfe40vGP-mmh~p5Ba~x3tTjtHx5fGPX~r15bnRhsjF7Q8~qC4L9m8DX1l3V0XCgQ97Ry5hhzGLTnKuDbHdMPkrkNRC598ibi4Pe54yrzYA0HoBaM-x4M1fak~tq6zt4lfMbVVeP2aQvVYzEWOLzO60J5zYqot9gdRyXuTl0lvqUB~BIspke1ZE7q2pm89~ZkoxYHGu7hg32PnfAXtj4fa6Q-NYMA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) | Journal of Personality and Social Psychology | 1980 | 🏆 | N/A |
 
 
-### Previous Papers (2019~) <a id="previous"></a>
-
-| Paper | Venue | Year | Impact | Code |
-| :---  | :---: | :---:| :---:  | :---:|
-| [A Compact Embedding for Facial Expression Similarity](https://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf) | CVPR | 2019 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/AmirSh15/FECNet) |
-| [A Personalized Affective Memory Model for Improving Emotion Recognition](http://proceedings.mlr.press/v97/barros19a/barros19a.pdf) | ICML | 2019 | ⭐️⭐️ | [TensorFlow](https://github.com/pablovin/P-AffMem) |
-| [Facial Expression Recognition via Relation-based Conditional Generative Adversarial Network](https://dl.acm.org/doi/10.1145/3340555.3353753) | ICMI | 2019 | ⭐️ | N/A |
-| [Facial Expression Recognition by De-expression Residue Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf) | CVPR | 2018 | ⭐️⭐️ | N/A |
-| [Joint pose and expression modeling for facial expression recognition](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf) | CVPR | 2018 | ⭐️⭐️ | [TensorFlow](https://github.com/FFZhang1231/Facial-expression-recognition) |
-| [Identity-Aware Convolutional Neural Network for Facial Expression Recognition](https://ieeexplore.ieee.org/document/7961791) | FG | 2017 | ⭐️⭐️⭐️ | N/A |
-| [Facenet2expnet: Regularizing a deep face recognition net for expression recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7961731&casa_token=pXkTiuN8h14AAAAA:VortCHqQThv1pMOSb5d1_yBtl8HjoncX90tvxPex2s06KZxxk-rHLOQxWQm0jFwlEMD1w4Mb9Q) | FG | 2017 | ⭐️⭐️ | N/A |
-| [Facial expression recognition from near-infrared videos](https://pdf.sciencedirectassets.com/271526/1-s2.0-S0262885611X00069/1-s2.0-S0262885611000515/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAgaCXVzLWVhc3QtMSJHMEUCIFiRBdKTQnt2tJQdiIPUyZ5NkklwzXN7ndWpG%2FB3ldHkAiEAinrnqmBXx%2FQTu%2BW5TROEYUwe3fl4VM%2FiFluS8Xx1qDsqvAUIwf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDHRfTWGZGeIbh5ud5iqQBa8ed2uJybHSSbHh2WhcqRwxFXijTAzHE4P1rzbms7AgYXFr3DprlfTXICxhApQxvZjfvOXbTYcctW9%2FPTuhvs%2F4s6W5eTv6JJa1UpYpa1rHJpcImJw9m9A0idz0df6BcAZiV9iunoP0EgjTIJVUf%2ByY5cP8XM1bee03QyfaEBqn50uGLl6j%2Fz1HlRTJwjZwbmUeKieqibitqnougLPDd6gpEqoN9%2Bp8wq8AgwFb2FiBmLz7BAFzS6bqhfS6p14ZBuSo9gsjoNwKW9IbcT3BnXLoT6o86zmR%2BdutZuIGKfVy%2BQyExLJ2L7hjZWsbM%2BRNoV78L%2FgWyVC6e5acdTKbODBsIJxXHobOeizkrqR19bTADQPJCGd%2BfN%2FVGvk2g5zkeBM%2F7w4NJKbhhoRV8VnXIn1PiPajNptgBtOalhqaJ1ID1g4w7U8mi0rCWdJHwqCyir40zZ3atM2nr9C5ksSbrWWCrnWDdqXkGhZjSb05VG3zXtt%2FMgrj0XpBzBw6SIaUUL8Cgk2RcLPO9GFhuf8h2cmyby1SFi4uGL706Qydex5900rWTyMIBlUYy2UWeRL6iEYzN31YLTa5ePkVf6SU4TmPExChZ1RIIjphXd3OseK2owoN15U6A9qjdokkaNF%2BglU952eaZsLnd%2Ff4wAzKYvhGmIwUtyEiPP77VdUSgE9HSDQ1PtL0g%2FgngDw4J27lsrybEW%2B0%2BDdvvzM3GsV6U3SKil1fJE1DzuGwMA9EZCCi7RhTIDkCImjk5dvg%2Bgr7pzyfZ2Aeeg262on5FFvbGHdW7CnqwtgEj0lPMh5zcQm1I3ra1%2Bsbsh%2BBJ3g%2BUFrmDC8k9hAs78iKks3KkMoVcqbn2f4hrJoF%2F6dWIZiwqvePMOCBvaAGOrEBLkb%2Fg5fA3Sf66RiVyVy%2BBq3I07GiagBVf7KTDdCnNfbOKhmBhqDTlWNpmmAUnf38ndrAKBy%2F4I4EgFnA%2F0fYhQsqovwPkoTJmlW81aXBa4U4e28Xk1nUHTJXez3%2Be2qFDNAEiahPj2AVpgkmB7KlAR0Sco58hKCnWlvz7oUY60xSfhehYmrtwq6LD%2B%2FwZG4PPfSYWyW%2FDxcf9JMYNcps3zPIDnAYQaFTOf8Snv2DowMG&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230313T162109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2IZH667A%2F20230313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1c7e2184e360b5ffc3aa4f04b91337abcb3f8666a8d6c56a0522d816bc8db7be&hash=0f93b7e4a99cabf40ee6502e981b6bd9a94a1eb9e79d48a71ba784c4de8ed804&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0262885611000515&tid=spdf-d6a989c5-5c13-4e65-ba7e-f0595678bc29&sid=9c0d33e215a458404b8b7a19c5cb2654c657gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=11145707545057010d5150&rr=7a759bb74d4e9331&cc=kr) | Image and Vision Computing</br>(ELSEVIER) | 2011 | ⭐️ | N/A |
-| [Facial expression decomposition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1238452&casa_token=MiF20iuuvgIAAAAA:vDTIx_7mvG5tLAQcyAXVBIaM-3HQcgxkwjWQ9CiLmPLybQBM89FgJaX33yY-VO7Gaz2mhu2pUg&tag=1) | ICCV | 2003 | 🏆 | N/A |
-
-
-
 ### Challenges <a id="challenges"></a>
 
 | Name | Venue | Year | Site |
@@ -242,6 +229,18 @@ Please feel free to refer this repository for your FER research/development and 
 | FLAME | [Learning a model of facial shape and expression from 4D scans](https://dl.acm.org/doi/pdf/10.1145/3130800.3130813) | [Project](https://flame.is.tue.mpg.de/) [TensorFlow](https://github.com/TimoBolkart/TF_FLAME) [PyTorch](https://github.com/HavenFeng/photometric_optimization)
 
 
+### Previous Papers (2019~) <a id="previous"></a>
 
+| Paper | Venue | Year | Impact | Code |
+| :---  | :---: | :---:| :---:  | :---:|
+| [A Compact Embedding for Facial Expression Similarity](https://openaccess.thecvf.com/content_CVPR_2019/papers/Vemulapalli_A_Compact_Embedding_for_Facial_Expression_Similarity_CVPR_2019_paper.pdf) | CVPR | 2019 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/AmirSh15/FECNet) |
+| [A Personalized Affective Memory Model for Improving Emotion Recognition](http://proceedings.mlr.press/v97/barros19a/barros19a.pdf) | ICML | 2019 | ⭐️⭐️ | [TensorFlow](https://github.com/pablovin/P-AffMem) |
+| [Facial Expression Recognition via Relation-based Conditional Generative Adversarial Network](https://dl.acm.org/doi/10.1145/3340555.3353753) | ICMI | 2019 | ⭐️ | N/A |
+| [Facial Expression Recognition by De-expression Residue Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Facial_Expression_Recognition_CVPR_2018_paper.pdf) | CVPR | 2018 | ⭐️⭐️ | N/A |
+| [Joint pose and expression modeling for facial expression recognition](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Joint_Pose_and_CVPR_2018_paper.pdf) | CVPR | 2018 | ⭐️⭐️ | [TensorFlow](https://github.com/FFZhang1231/Facial-expression-recognition) |
+| [Identity-Aware Convolutional Neural Network for Facial Expression Recognition](https://ieeexplore.ieee.org/document/7961791) | FG | 2017 | ⭐️⭐️⭐️ | N/A |
+| [Facenet2expnet: Regularizing a deep face recognition net for expression recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7961731&casa_token=pXkTiuN8h14AAAAA:VortCHqQThv1pMOSb5d1_yBtl8HjoncX90tvxPex2s06KZxxk-rHLOQxWQm0jFwlEMD1w4Mb9Q) | FG | 2017 | ⭐️⭐️ | N/A |
+| [Facial expression recognition from near-infrared videos](https://pdf.sciencedirectassets.com/271526/1-s2.0-S0262885611X00069/1-s2.0-S0262885611000515/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAgaCXVzLWVhc3QtMSJHMEUCIFiRBdKTQnt2tJQdiIPUyZ5NkklwzXN7ndWpG%2FB3ldHkAiEAinrnqmBXx%2FQTu%2BW5TROEYUwe3fl4VM%2FiFluS8Xx1qDsqvAUIwf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDHRfTWGZGeIbh5ud5iqQBa8ed2uJybHSSbHh2WhcqRwxFXijTAzHE4P1rzbms7AgYXFr3DprlfTXICxhApQxvZjfvOXbTYcctW9%2FPTuhvs%2F4s6W5eTv6JJa1UpYpa1rHJpcImJw9m9A0idz0df6BcAZiV9iunoP0EgjTIJVUf%2ByY5cP8XM1bee03QyfaEBqn50uGLl6j%2Fz1HlRTJwjZwbmUeKieqibitqnougLPDd6gpEqoN9%2Bp8wq8AgwFb2FiBmLz7BAFzS6bqhfS6p14ZBuSo9gsjoNwKW9IbcT3BnXLoT6o86zmR%2BdutZuIGKfVy%2BQyExLJ2L7hjZWsbM%2BRNoV78L%2FgWyVC6e5acdTKbODBsIJxXHobOeizkrqR19bTADQPJCGd%2BfN%2FVGvk2g5zkeBM%2F7w4NJKbhhoRV8VnXIn1PiPajNptgBtOalhqaJ1ID1g4w7U8mi0rCWdJHwqCyir40zZ3atM2nr9C5ksSbrWWCrnWDdqXkGhZjSb05VG3zXtt%2FMgrj0XpBzBw6SIaUUL8Cgk2RcLPO9GFhuf8h2cmyby1SFi4uGL706Qydex5900rWTyMIBlUYy2UWeRL6iEYzN31YLTa5ePkVf6SU4TmPExChZ1RIIjphXd3OseK2owoN15U6A9qjdokkaNF%2BglU952eaZsLnd%2Ff4wAzKYvhGmIwUtyEiPP77VdUSgE9HSDQ1PtL0g%2FgngDw4J27lsrybEW%2B0%2BDdvvzM3GsV6U3SKil1fJE1DzuGwMA9EZCCi7RhTIDkCImjk5dvg%2Bgr7pzyfZ2Aeeg262on5FFvbGHdW7CnqwtgEj0lPMh5zcQm1I3ra1%2Bsbsh%2BBJ3g%2BUFrmDC8k9hAs78iKks3KkMoVcqbn2f4hrJoF%2F6dWIZiwqvePMOCBvaAGOrEBLkb%2Fg5fA3Sf66RiVyVy%2BBq3I07GiagBVf7KTDdCnNfbOKhmBhqDTlWNpmmAUnf38ndrAKBy%2F4I4EgFnA%2F0fYhQsqovwPkoTJmlW81aXBa4U4e28Xk1nUHTJXez3%2Be2qFDNAEiahPj2AVpgkmB7KlAR0Sco58hKCnWlvz7oUY60xSfhehYmrtwq6LD%2B%2FwZG4PPfSYWyW%2FDxcf9JMYNcps3zPIDnAYQaFTOf8Snv2DowMG&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20230313T162109Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2IZH667A%2F20230313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=1c7e2184e360b5ffc3aa4f04b91337abcb3f8666a8d6c56a0522d816bc8db7be&hash=0f93b7e4a99cabf40ee6502e981b6bd9a94a1eb9e79d48a71ba784c4de8ed804&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0262885611000515&tid=spdf-d6a989c5-5c13-4e65-ba7e-f0595678bc29&sid=9c0d33e215a458404b8b7a19c5cb2654c657gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=11145707545057010d5150&rr=7a759bb74d4e9331&cc=kr) | Image and Vision Computing</br>(ELSEVIER) | 2011 | ⭐️ | N/A |
+| [Facial expression decomposition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1238452&casa_token=MiF20iuuvgIAAAAA:vDTIx_7mvG5tLAQcyAXVBIaM-3HQcgxkwjWQ9CiLmPLybQBM89FgJaX33yY-VO7Gaz2mhu2pUg&tag=1) | ICCV | 2003 | 🏆 | N/A |
 
 

@@ -37,7 +37,7 @@ Please feel free to refer this repository for your FER research/development and 
     
 - [Facial Expression Manipulation](#fem)
     
-- [Emotion Theory, Facial Representations, and Others](#th-fr-o)
+- [Emotion Recognition, Facial Representations, and Others](#er-fr-o)
 
 - [Challenges](#challenges)
   
@@ -173,11 +173,12 @@ Please feel free to refer this repository for your FER research/development and 
 | [Interpreting the latent space of gans for semantic face editing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.pdf) | CVPR | 2020 | ⭐️⭐️⭐️ | [TensorFlow](https://github.com/genforce/interfacegan) |
 
 
-### Emotion Theory, Facial Representations, and Others <a id="th-fr-o"></a>
+### Emotion Recognition, Facial Representations, and Others <a id="er-fr-o"></a>
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
-| [Context De-confounded Emotion Recognition](https://arxiv.org/pdf/2303.11921.pdf) | CVPR | 2023 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/ydk122024/CCIM) |
+| [Decoupled Multimodal Distilling for Emotion Recognition](https://arxiv.org/pdf/2303.13802v1.pdf) | CVPR | 2023 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/mdswyz/dmd) |
+| [Context De-confounded Emotion Recognition](https://arxiv.org/pdf/2303.11921.pdf) | CVPR | 2023 | ⭐️⭐️ | [PyTorch](https://github.com/ydk122024/CCIM) |
 | [More is Better: A Database for Spontaneous Micro-Expression with High Frame Rates](https://arxiv.org/pdf/2301.00985.pdf) | ArXiv | 2023 | ⭐️ | N/A |
 | [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_FERV39k_A_Large-Scale_Multi-Scene_Dataset_for_Facial_Expression_Recognition_in_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | [Data](https://github.com/wangyanckxx/FERV39k) |
 | [Multi-Dimensional, Nuanced and Subjective – Measuring the Perception of Facial Expressions](https://openaccess.thecvf.com/content/CVPR2022/papers/Bryant_Multi-Dimensional_Nuanced_and_Subjective_-_Measuring_the_Perception_of_Facial_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | N/A |

@@ -228,6 +228,7 @@ Please feel free to refer this repository for your FER research/development and 
 | Name | Paper | Site |
 | :--- | :---: | :---:|
 | FLAME | [Learning a model of facial shape and expression from 4D scans](https://dl.acm.org/doi/pdf/10.1145/3130800.3130813) | [Project](https://flame.is.tue.mpg.de/) [TensorFlow](https://github.com/TimoBolkart/TF_FLAME) [PyTorch](https://github.com/HavenFeng/photometric_optimization)
+| FaceNet | [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/pdf/1604.02878.pdf) | [PyTorch](https://github.com/timesler/facenet-pytorch) [TensorFlow](https://github.com/davidsandberg/facenet) |
 
 
 ### Previous Papers (2019~) <a id="previous"></a>

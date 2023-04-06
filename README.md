@@ -216,6 +216,7 @@ Please feel free to refer this repository for your FER research/development and 
 | Emotion Recognition in the Wild Challenge (EmotiW) | ICMI | 2013-2018 | [Site](https://sites.google.com/view/emotiw2018) |
 | Affect Recognition in-the-wild: Uni/Multi-Modal Analysis & VA-AU-Expression Challenges | FG | 2020 | [Site](https://ibug.doc.ic.ac.uk/resources/affect-recognition-wild-unimulti-modal-analysis-va/) |
 | Affective Behavior Analysis In-the-Wild (1st) | FG | 2020 | [Site](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/) |
+| Deepfake Detection Challenge | - | 2020 | [Site](https://ai.facebook.com/datasets/dfdc/) [Paper](https://arxiv.org/pdf/1910.08854.pdf) [GitHub](https://github.com/selimsef/dfdc_deepfake_challenge) | 
 | Affective Behavior Analysis In-the-Wild (2nd) | ICCV | 2021 | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2022-3rd-abaw/) [Paper](https://openaccess.thecvf.com/ICCV2021_workshops/ABAW) |
 | Affective Behavior Analysis In-the-Wild (3rd) | CVPR | 2022 | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2022-3rd-abaw/) [Paper](https://openaccess.thecvf.com/CVPR2022_workshops/ABAW) |
 | Affective Behavior Analysis In-the-Wild (4th) | ECCV | 2022 | [Site](https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/) |
@@ -229,6 +230,8 @@ Please feel free to refer this repository for your FER research/development and 
 | :--- | :---: | :---:|
 | FLAME | [Learning a model of facial shape and expression from 4D scans](https://dl.acm.org/doi/pdf/10.1145/3130800.3130813) | [Project](https://flame.is.tue.mpg.de/) [TensorFlow](https://github.com/TimoBolkart/TF_FLAME) [PyTorch](https://github.com/HavenFeng/photometric_optimization)
 | FaceNet | [Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks](https://arxiv.org/pdf/1604.02878.pdf) | [PyTorch](https://github.com/timesler/facenet-pytorch) [TensorFlow](https://github.com/davidsandberg/facenet) |
+| Landmark detection | - | [PyTorch](https://github.com/cunjian/pytorch_face_landmark) |
+| Age estimation | - | 
 
 
 ### Previous Papers (2019~) <a id="previous"></a>

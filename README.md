@@ -35,7 +35,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 - [Privacy-aware Facial Expression Recognition](#privacy)
     
-- [Facial Expression Manipulation](#fem)
+- [Facial Expression Manipulation and Synthesis](#fem)
     
 - [Emotion Recognition, Facial Representations, and Others](#er-fr-o)
 
@@ -53,6 +53,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Multi-Domain Norm-Referenced Encoding enables Data Efficient Transformer Learning of Facial Expression Recognition](https://arxiv.org/pdf/2304.02309v1.pdf) | ArXiv | ⭐️⭐️ | N/A |
 | [RNAS-MER: A Refined Neural Architecture Search With Hybrid Spatiotemporal Operations for Micro-Expression Recognition]() | WACV | ⭐️ | N/A |
 | [Uncertainty-aware Label Distribution Learning for Facial Expression Recognition]() | WACV | ⭐️⭐️ | [TensorFlow](https://github.com/minhnhatvt/label-distribution-learning-fer-tf/) |
 | [POSTER V2: A simpler and stronger facial expression recognition network](https://arxiv.org/pdf/2301.12149.pdf) | ArXiv | ⭐️⭐️ | [PyTorch](https://github.com/Talented-Q/POSTER_V2) |
@@ -153,10 +154,11 @@ Please feel free to refer this repository for your FER research/development and 
 | [Disentangled Representation with Dual-stage Feature Learning for Face Anti-spoofing](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_Disentangled_Representation_With_Dual-Stage_Feature_Learning_for_Face_Anti-Spoofing_WACV_2022_paper.pdf) | WACV | 2021 | ⭐️ | N/A |
 
 
-### Facial Expression Manipulation / Generation <a id="fem"></a>
+### Facial Expression Manipulation and Synthesis <a id="fem"></a>
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [4D Facial Expression Diffusion Model](https://arxiv.org/pdf/2303.16611v1.pdf) | ArXiv | 2023 | ⭐️⭐️⭐️ | [Github](https://github.com/ZOUKaifeng/4DFM) |
 | [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://openaccess.thecvf.com/content/CVPR2022/papers/Danecek_EMOCA_Emotion_Driven_Monocular_Face_Capture_and_Animation_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [Project](https://emoca.is.tue.mpg.de/) |
 | [Sparse to Dense Dynamic 3D Facial Expression Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Otberdout_Sparse_to_Dense_Dynamic_3D_Facial_Expression_Generation_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | [GitHub](https://github.com/CRISTAL-3DSAM/Sparse2Dense) |
 | [Neural Emotion Director: Speech-preserving semantic control of facial expressions in “in-the-wild” videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Papantoniou_Neural_Emotion_Director_Speech-Preserving_Semantic_Control_of_Facial_Expressions_in_CVPR_2022_paper.pdf) | CVPR</br>(best paper finalist) | 2022 | ⭐️⭐️⭐️ | [Site](https://foivospar.github.io/NED/) |

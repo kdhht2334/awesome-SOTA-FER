@@ -6,18 +6,18 @@ A curated list of facial expression recognition in both 7-emotion classification
 👀 Update frequently!
 
 
-#### Notice
+## 🛎 Notice
 ⭐️: __Importance__ of FER method (from 1 to 3 points)
 
 🏆: __Mandatory (research) paper__ to understand FER technology.
 
 
-## What's New
+## 📋 What's New
 
 - [Mar. 2023] Initial update for FER papers.
 - [Mar. 2023] Create awesome-SOTA-FER repository.
 
-## Contributing
+## 👥 Contributing
 Please feel free to refer this repository for your FER research/development and send me [pull requests](https://github.com/kdhht2334/awesome-SOTA-FER/pulls) or email [Daeha Kim](kdhht5022@gmail.com) to add links.
 
 
@@ -31,7 +31,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 - [Valence-arousal Affect Estimation](#affect)
 
-- [Facial Action Unit (AU) Detection / Recognition](#au)
+- [Facial Action Unit (AU) Detection (or Recognition)](#au)
 
 - [Privacy-aware Facial Expression Recognition](#privacy)
     
@@ -63,6 +63,9 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Learn From All: Erasing Attention Consistency for Noisy Label Facial Expression Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860406.pdf) | ECCV | ⭐️⭐️⭐️ | [PyTorch](https://github.com/zyh-uaiaaaa/Erasing-Attention-Consistency) |
+| [Learn-to-Decompose: Cascaded Decomposition Network for Cross-Domain Few-Shot Facial Expression Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136790672.pdf) | ECCV | ⭐️ | [PyTorch](https://github.com/zouxinyi0625/CDNet) |
+| [Teaching with Soft Label Smoothing for Mitigating Noisy Labels in Facial Expressions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136720639.pdf) | ECCV | ⭐️ | [PyTorch](https://github.com/toharl/soft) |
 | [Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_Semi-Supervised_Deep_Facial_Expression_Recognition_With_an_Adaptive_Confidence_CVPR_2022_paper.pdf) | CVPR | ⭐️ | [PyTorch](https://github.com/hangyu94/Ada-CM/) |
 | [Face2Exp: Combating Data Biases for Facial Expression Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_Face2Exp_Combating_Data_Biases_for_Facial_Expression_Recognition_CVPR_2022_paper.pdf) | CVPR | ⭐️⭐️⭐️ | [PyTorch](https://github.com/danzeng1990/Face2Exp) |
 | [Facial Expression Recognition By Using a Disentangled Identity Invariant Expression Representation](https://ailb-web.ing.unimore.it/icpr/media/slides/12024.pdf) [[Poster]](https://ailb-web.ing.unimore.it/icpr/media/posters/12024.pdf) | ICPR | ⭐️⭐️ | N/A |
@@ -121,7 +124,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [BReG-NeXt: Facial affect computing using adaptive residual networks with bounded gradient](https://ieeexplore.ieee.org/iel7/5165369/5520654/09064942.pdf?casa_token=mmeTU4Eqv6IAAAAA:m6rR6FVdNZhuuxcTA5G8z5j2h28hnm5zE3FtgkEJOeXUfT818fM501SzCIoJ_aHmx6yGWHE78w) | IEEE TAC | 2020 | ⭐️⭐️ | [TensorFlow](https://github.com/behzadhsni/BReG-NeXt) |
 
 
-### Facial Action Unit (AU) Detection / Recognition <a id="au"></a>
+### Facial Action Unit (AU) Detection (or Recognition) <a id="au"></a>
 
   - This section also contains `landmark` detection.
 
@@ -177,11 +180,16 @@ Please feel free to refer this repository for your FER research/development and 
 
 ### Emotion Recognition, Facial Representations, and Others <a id="er-fr-o"></a>
 
+  - `Dataset` papers will be divided soon or later 🥳
+
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
 | [Decoupled Multimodal Distilling for Emotion Recognition](https://arxiv.org/pdf/2303.13802v1.pdf) | CVPR | 2023 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/mdswyz/dmd) |
 | [Context De-confounded Emotion Recognition](https://arxiv.org/pdf/2303.11921.pdf) | CVPR | 2023 | ⭐️⭐️ | [PyTorch](https://github.com/ydk122024/CCIM) |
 | [More is Better: A Database for Spontaneous Micro-Expression with High Frame Rates](https://arxiv.org/pdf/2301.00985.pdf) | ArXiv | 2023 | ⭐️ | N/A |
+| [Pre-training strategies and datasets for facial representation learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730109.pdf) | ECCV | 2022 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/1adrianb/unsupervised-face-representation) |
+| [MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680457.pdf) | ECCV | 2022 | ⭐️⭐️ | [Github](https://github.com/apapaion/mimicme) |
+| [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670641.pdf) | ECCV | 2022 | ⭐️⭐️⭐️ | [Project](https://celebv-hq.github.io/) [GitHub](https://github.com/CelebV-HQ/CelebV-HQ) [Demo](https://www.youtube.com/watch?v=Y0uxlUW4sW0) |
 | [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_FERV39k_A_Large-Scale_Multi-Scene_Dataset_for_Facial_Expression_Recognition_in_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | [Data](https://github.com/wangyanckxx/FERV39k) |
 | [Multi-Dimensional, Nuanced and Subjective – Measuring the Perception of Facial Expressions](https://openaccess.thecvf.com/content/CVPR2022/papers/Bryant_Multi-Dimensional_Nuanced_and_Subjective_-_Measuring_the_Perception_of_Facial_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | N/A |
 | [General Facial Representation Learning in a Visual-Linguistic Manner](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_General_Facial_Representation_Learning_in_a_Visual-Linguistic_Manner_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/faceperceiver/farl) |

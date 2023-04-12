@@ -51,8 +51,13 @@ Please feel free to refer this repository for your FER research/development and 
 
 #### 2023 <a id="2023-c"></a>
 
+  - Trend in 2023 is `micro-expression recognition`??
+
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition](https://arxiv.org/pdf/2304.04420.pdf) | CVPR | ⭐️⭐️ | N/A |
+| [Rethinking the Learning Paradigm for Facial Expression Recognition](https://arxiv.org/pdf/2209.15402.pdf) | CVPR | ⭐️⭐️⭐️ | N/A |
+| [Micron-BERT: BERT-based Facial Micro-Expression Recognition](https://arxiv.org/pdf/2304.03195.pdf) | CVPR | ⭐️⭐️ | [PyTorch](https://github.com/uark-cviu/Micron-BERT) |
 | [Multi-Domain Norm-Referenced Encoding enables Data Efficient Transformer Learning of Facial Expression Recognition](https://arxiv.org/pdf/2304.02309v1.pdf) | ArXiv | ⭐️⭐️ | N/A |
 | [RNAS-MER: A Refined Neural Architecture Search With Hybrid Spatiotemporal Operations for Micro-Expression Recognition]() | WACV | ⭐️ | N/A |
 | [Uncertainty-aware Label Distribution Learning for Facial Expression Recognition]() | WACV | ⭐️⭐️ | [TensorFlow](https://github.com/minhnhatvt/label-distribution-learning-fer-tf/) |

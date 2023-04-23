@@ -14,6 +14,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Apr. 2023] Update CVPR 2023 papers (ongoing).
 - [Mar. 2023] Initial update for FER papers.
 - [Mar. 2023] Create awesome-SOTA-FER repository.
 

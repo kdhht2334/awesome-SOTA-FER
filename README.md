@@ -149,7 +149,8 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
-| [Simulated adversarial testing of face recognition models](https://openaccess.thecvf.com/content/CVPR2022/papers/Ruiz_Simulated_Adversarial_Testing_of_Face_Recognition_Models_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | N/A|
+| [GANonymization: A GAN-based Face Anonymization Framework for Preserving Emotional Expressions](https://arxiv.org/pdf/2305.02143.pdf) | ACM Transactions on MCCA | 2023 | ⭐️⭐️ | None |
+| [Simulated adversarial testing of face recognition models](https://openaccess.thecvf.com/content/CVPR2022/papers/Ruiz_Simulated_Adversarial_Testing_of_Face_Recognition_Models_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | N/A |
 | [Exploring frequency adversarial attacks for face forgery detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Exploring_Frequency_Adversarial_Attacks_for_Face_Forgery_Detection_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | N/A |
 | [Protecting Facial Privacy: Generating Adversarial Identity Masks via Style-robust Makeup Transfer](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Protecting_Facial_Privacy_Generating_Adversarial_Identity_Masks_via_Style-Robust_Makeup_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/CGCL-codes/AMT-GAN) |
 | [Privacy-Preserving Face Recognition with Learnable Privacy Budgets in Frequency Domain](https://arxiv.org/pdf/2207.07316.pdf) | ECCV | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/Tencent/TFace/tree/master/recognition/tasks/dctdp) |
@@ -189,7 +190,6 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
-| [GANonymization: A GAN-based Face Anonymization Framework for Preserving Emotional Expressions](https://arxiv.org/pdf/2305.02143.pdf) | ACM Transactions on MCCA | 2023 | ⭐️⭐️ | None |
 | [How you feelin’? Learning Emotions and Mental States in Movie Scenes](https://arxiv.org/pdf/2304.05634.pdf) | CVPR | 2023 | ⭐️⭐️⭐️ | [Project](https://katha-ai.github.io/projects/emotx/) |
 | [Decoupled Multimodal Distilling for Emotion Recognition](https://arxiv.org/pdf/2303.13802v1.pdf) | CVPR | 2023 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/mdswyz/dmd) |
 | [Context De-confounded Emotion Recognition](https://arxiv.org/pdf/2303.11921.pdf) | CVPR | 2023 | ⭐️⭐️ | [PyTorch](https://github.com/ydk122024/CCIM) |

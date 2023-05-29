@@ -50,7 +50,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 ## 7-Emotion Classification <a id="seven-emotion"></a>
 
-#### 2023 [top](#seven-emotion) <a id="2023-c"></a>
+#### 2023 <a id="2023-c"></a>
 
   - Trend in 2023 is `micro-expression recognition`??
 
@@ -64,7 +64,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [POSTER V2: A simpler and stronger facial expression recognition network](https://arxiv.org/pdf/2301.12149.pdf) | ArXiv | ⭐️⭐️ | [PyTorch](https://github.com/Talented-Q/POSTER_V2) |
 
 
-#### 2022 [top](#seven-emotion) <a id="2022-c"></a>
+#### 2022 <a id="2022-c"></a>
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
@@ -82,7 +82,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Analysis of Semi-Supervised Methods for Facial Expression Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9953876&casa_token=RptxgdB8SrEAAAAA:maVFJFxUaED8NbBbIFLjn4HCTNqQhXR6dSXN1NgWaUkQgXimVX9-8WLx-Ob9Zk0i4GL5eCEAeA) | ACII | ⭐️ | [GitHub](https://github.com/ShuvenduRoy/SSL) |
 | [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) | ArXiv | 2022 | ⭐️ | [GitHub](https://github.com/zczcwh/POSTER) |
 
-#### 2021 [top](#seven-emotion) <a id="2021-c"></a>
+#### 2021 <a id="2021-c"></a>
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
@@ -103,7 +103,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 
 
-#### 2020 [top](#seven-emotion) <a id="2020-c"></a>
+#### 2020 <a id="2020-c"></a>
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
@@ -114,7 +114,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 
 
-### Valence-arousal Affect Estimation <a id="affect"></a>
+### Valence-arousal Affect Estimation [back-to-top](#seven-emotion) <a id="affect"></a>
 
 
 | Paper | Venue | Year | Impact | Code |
@@ -129,7 +129,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [BReG-NeXt: Facial affect computing using adaptive residual networks with bounded gradient](https://ieeexplore.ieee.org/iel7/5165369/5520654/09064942.pdf?casa_token=mmeTU4Eqv6IAAAAA:m6rR6FVdNZhuuxcTA5G8z5j2h28hnm5zE3FtgkEJOeXUfT818fM501SzCIoJ_aHmx6yGWHE78w) | IEEE TAC | 2020 | ⭐️⭐️ | [TensorFlow](https://github.com/behzadhsni/BReG-NeXt) |
 
 
-### Facial Action Unit (AU) Detection (or Recognition) <a id="au"></a>
+### Facial Action Unit (AU) Detection (or Recognition) [back-to-top](#seven-emotion) <a id="au"></a>
 
   - This section also contains `landmark` detection.
 
@@ -142,7 +142,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [PIAP-DF: Pixel-Interested and Anti Person-Specific Facial Action Unit Detection Net with Discrete Feedback Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Tang_PIAP-DF_Pixel-Interested_and_Anti_Person-Specific_Facial_Action_Unit_Detection_Net_ICCV_2021_paper.pdf) | ICCV | 2021 | ⭐️ | N/A |
 
 
-### Privacy-aware Facial Expression Recognition <a id="privacy"></a>
+### Privacy-aware Facial Expression Recognition [back-to-top](#seven-emotion) <a id="privacy"></a>
 
   - __Note__: Some face recognition studies are included.
   - You can get additional information [here](https://github.com/Tencent/TFace)
@@ -163,7 +163,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Disentangled Representation with Dual-stage Feature Learning for Face Anti-spoofing](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_Disentangled_Representation_With_Dual-Stage_Feature_Learning_for_Face_Anti-Spoofing_WACV_2022_paper.pdf) | WACV | 2021 | ⭐️ | N/A |
 
 
-### Facial Expression Manipulation and Synthesis <a id="fem"></a>
+### Facial Expression Manipulation and Synthesis [back-to-top](#seven-emotion) <a id="fem"></a>
 
   - Uprising `Talking face generation task` is included here!
 
@@ -192,7 +192,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Interpreting the latent space of gans for semantic face editing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.pdf) | CVPR | 2020 | ⭐️⭐️⭐️ | [TensorFlow](https://github.com/genforce/interfacegan) |
 
 
-### Emotion Recognition, Facial Representations, and Others <a id="er-fr-o"></a>
+### Emotion Recognition, Facial Representations, and Others [back-to-top](#seven-emotion) <a id="er-fr-o"></a>
 
   - `Dataset` papers will be divided soon or later 🥳
 
@@ -236,7 +236,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [A circumplex model of affect](https://d1wqtxts1xzle7.cloudfront.net/38425675/Russell1980-libre.pdf?1439132613=&response-content-disposition=inline%3B+filename%3DRussell1980.pdf&Expires=1678728266&Signature=JLK-DCUZNrH3iP-f3l5kB4uxUV~VUIhB04KfodmthXNX8n07xP1qkQ8ghjD0xtJR68zGUpp~19S2mOlPPBILqURiMV0iRcYUkqNoydOt~He463YsZAWMp105JjJfe40vGP-mmh~p5Ba~x3tTjtHx5fGPX~r15bnRhsjF7Q8~qC4L9m8DX1l3V0XCgQ97Ry5hhzGLTnKuDbHdMPkrkNRC598ibi4Pe54yrzYA0HoBaM-x4M1fak~tq6zt4lfMbVVeP2aQvVYzEWOLzO60J5zYqot9gdRyXuTl0lvqUB~BIspke1ZE7q2pm89~ZkoxYHGu7hg32PnfAXtj4fa6Q-NYMA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) | Journal of Personality and Social Psychology | 1980 | 🏆 | N/A |
 
 
-### Challenges <a id="challenges"></a>
+### Challenges [back-to-top](#seven-emotion) <a id="challenges"></a>
 
 | Name | Venue | Year | Site |
 | :--- | :---: | :---:| :---:|
@@ -252,7 +252,7 @@ Please feel free to refer this repository for your FER research/development and 
 | Affective Behavior Analysis In-the-Wild (5th) | CVPR | 2023</br>(not yet) | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/) |
 
 
-### Tools <a id="tools"></a>
+### Face related Tool [back-to-top](#seven-emotion) <a id="tools"></a>
 
 | Name | Paper(/Feature) | Site |
 | :--- | :---: | :---:|
@@ -263,7 +263,7 @@ Please feel free to refer this repository for your FER research/development and 
 | DataGen | APIs all about human faces and bodies | [Web](https://docs.datagen.tech/en/latest/index.html) |
 
 
-### Previous Papers (2019~) <a id="previous"></a>
+### Remarkable Papers (previous) [back-to-top](#seven-emotion) <a id="previous"></a>
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|

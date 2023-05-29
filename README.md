@@ -44,7 +44,7 @@ Please feel free to refer this repository for your FER research/development and 
   
 - [Tools](#tools)
 
-- [Previous Papers (2019~)](#previous)
+- [Remarkable Papers (2019~)](#previous)
 
 
 
@@ -252,7 +252,7 @@ Please feel free to refer this repository for your FER research/development and 
 | Affective Behavior Analysis In-the-Wild (5th) | CVPR | 2023</br>(not yet) | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/) |
 
 
-### Face related Tool [back-to-top](#seven-emotion) <a id="tools"></a>
+### Tools [back-to-top](#seven-emotion) <a id="tools"></a>
 
 | Name | Paper(/Feature) | Site |
 | :--- | :---: | :---:|
@@ -263,7 +263,7 @@ Please feel free to refer this repository for your FER research/development and 
 | DataGen | APIs all about human faces and bodies | [Web](https://docs.datagen.tech/en/latest/index.html) |
 
 
-### Remarkable Papers (previous) [back-to-top](#seven-emotion) <a id="previous"></a>
+### Remarkable Papers (2019~) [back-to-top](#seven-emotion) <a id="previous"></a>
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|

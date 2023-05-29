@@ -64,7 +64,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [POSTER V2: A simpler and stronger facial expression recognition network](https://arxiv.org/pdf/2301.12149.pdf) | ArXiv | ⭐️⭐️ | [PyTorch](https://github.com/Talented-Q/POSTER_V2) |
 
 
-#### 2022 <a id="2022-c"></a> (#seven-emotion)
+#### 2022(#seven-emotion) <a id="2022-c"></a>
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
@@ -82,7 +82,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Analysis of Semi-Supervised Methods for Facial Expression Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9953876&casa_token=RptxgdB8SrEAAAAA:maVFJFxUaED8NbBbIFLjn4HCTNqQhXR6dSXN1NgWaUkQgXimVX9-8WLx-Ob9Zk0i4GL5eCEAeA) | ACII | ⭐️ | [GitHub](https://github.com/ShuvenduRoy/SSL) |
 | [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) | ArXiv | 2022 | ⭐️ | [GitHub](https://github.com/zczcwh/POSTER) |
 
-#### 2021 <a id="2021-c"></a> (#seven-emotion)
+#### 2021(#seven-emotion) <a id="2021-c"></a>
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
@@ -103,7 +103,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 
 
-#### 2020 <a id="2020-c"></a> (#seven-emotion)
+#### 2020(#seven-emotion) <a id="2020-c"></a>
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|

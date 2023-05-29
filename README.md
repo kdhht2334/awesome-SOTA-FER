@@ -165,8 +165,16 @@ Please feel free to refer this repository for your FER research/development and 
 
 ### Facial Expression Manipulation and Synthesis <a id="fem"></a>
 
+  - Uprising `Talking face generation task` is included here!
+
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://github.com/Sxjdwang/TalkLip) | CVPR | 2023 | ⭐️⭐️ | [GitHub](https://github.com/Sxjdwang/TalkLip) |
+| [LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️ | N/A |
+| [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) | CVPR | 2023 | 🏆 | [GitHub](https://github.com/OpenTalker/SadTalker) |
+| [Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhong_Identity-Preserving_Talking_Face_Generation_With_Landmark_and_Appearance_Priors_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️ | N/A |
+| [OTAvatar : One-shot Talking Face Avatar with Controllable Tri-plane Rendering](https://openaccess.thecvf.com/content/CVPR2023/papers/Ma_OTAvatar_One-Shot_Talking_Face_Avatar_With_Controllable_Tri-Plane_Rendering_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/theEricMa/OTAvatar) |
+| [High-fidelity Generalized Emotional Talking Face Generation with Multi-modal Emotion Space Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_High-Fidelity_Generalized_Emotional_Talking_Face_Generation_With_Multi-Modal_Emotion_Space_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️⭐️⭐️ | N/A |
 | [4D Facial Expression Diffusion Model](https://arxiv.org/pdf/2303.16611v1.pdf) | ArXiv | 2023 | ⭐️⭐️⭐️ | [Github](https://github.com/ZOUKaifeng/4DFM) |
 | [EMOCA: Emotion Driven Monocular Face Capture and Animation](https://openaccess.thecvf.com/content/CVPR2022/papers/Danecek_EMOCA_Emotion_Driven_Monocular_Face_Capture_and_Animation_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [Project](https://emoca.is.tue.mpg.de/) |
 | [Sparse to Dense Dynamic 3D Facial Expression Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Otberdout_Sparse_to_Dense_Dynamic_3D_Facial_Expression_Generation_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | [GitHub](https://github.com/CRISTAL-3DSAM/Sparse2Dense) |
@@ -190,6 +198,9 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Weakly Supervised Video Emotion Detection and Prediction via Cross-Modal Temporal Erasing Network](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Weakly_Supervised_Video_Emotion_Detection_and_Prediction_via_Cross-Modal_Temporal_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️ | [PyTorch](https://github.com/nku-zhichengzhang/WECL) |
+| [Learning Emotion Representations from Verbal and Nonverbal Communication](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Learning_Emotion_Representations_From_Verbal_and_Nonverbal_Communication_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️⭐️ | [GitHub](https://github.com/Xeaver/EmotionCLIP) |
+| [Multivariate, Multi-frequency and Multimodal: Rethinking Graph Neural Networks for Emotion Recognition in Conversation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Multivariate_Multi-Frequency_and_Multimodal_Rethinking_Graph_Neural_Networks_for_Emotion_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️ | N/A |
 | [How you feelin’? Learning Emotions and Mental States in Movie Scenes](https://arxiv.org/pdf/2304.05634.pdf) | CVPR | 2023 | ⭐️⭐️⭐️ | [Project](https://katha-ai.github.io/projects/emotx/) |
 | [Decoupled Multimodal Distilling for Emotion Recognition](https://arxiv.org/pdf/2303.13802v1.pdf) | CVPR | 2023 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/mdswyz/dmd) |
 | [Context De-confounded Emotion Recognition](https://arxiv.org/pdf/2303.11921.pdf) | CVPR | 2023 | ⭐️⭐️ | [PyTorch](https://github.com/ydk122024/CCIM) |

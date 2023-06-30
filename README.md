@@ -14,12 +14,8 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
-<<<<<<< 4994ae2081d773d33a11e97c662aa8b022b1d13e
-- [Apr. 2023] Update CVPR 2023 papers (ongoing).
-=======
 - [Jun. 2023] Update ICML 2023 / ICASSP 2023 papers.
 - [Apr. 2023] Update CVPR 2023 papers.
->>>>>>> Update ICML / ICASSP papers
 - [Mar. 2023] Initial update for FER papers.
 - [Mar. 2023] Create awesome-SOTA-FER repository.
 
@@ -61,10 +57,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
-<<<<<<< 4994ae2081d773d33a11e97c662aa8b022b1d13e
-=======
 | [Facial Expression Recognition with Adaptive Frame Rate based on Multiple Testing Correction](https://openreview.net/pdf?id=DH11pt7S2t) | ICML | ⭐️⭐️ | N/A |
->>>>>>> Update ICML / ICASSP papers
 | [Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition](https://arxiv.org/pdf/2304.04420.pdf) | CVPR | ⭐️⭐️ | N/A |
 | [Rethinking the Learning Paradigm for Facial Expression Recognition](https://arxiv.org/pdf/2209.15402.pdf) | CVPR | ⭐️⭐️⭐️ | N/A |
 | [Micron-BERT: BERT-based Facial Micro-Expression Recognition](https://arxiv.org/pdf/2304.03195.pdf) | CVPR | ⭐️⭐️ | [PyTorch](https://github.com/uark-cviu/Micron-BERT) |

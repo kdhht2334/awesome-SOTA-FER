@@ -14,7 +14,12 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+<<<<<<< 4994ae2081d773d33a11e97c662aa8b022b1d13e
 - [Apr. 2023] Update CVPR 2023 papers (ongoing).
+=======
+- [Jun. 2023] Update ICML 2023 / ICASSP 2023 papers.
+- [Apr. 2023] Update CVPR 2023 papers.
+>>>>>>> Update ICML / ICASSP papers
 - [Mar. 2023] Initial update for FER papers.
 - [Mar. 2023] Create awesome-SOTA-FER repository.
 
@@ -56,6 +61,10 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+<<<<<<< 4994ae2081d773d33a11e97c662aa8b022b1d13e
+=======
+| [Facial Expression Recognition with Adaptive Frame Rate based on Multiple Testing Correction](https://openreview.net/pdf?id=DH11pt7S2t) | ICML | ⭐️⭐️ | N/A |
+>>>>>>> Update ICML / ICASSP papers
 | [Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition](https://arxiv.org/pdf/2304.04420.pdf) | CVPR | ⭐️⭐️ | N/A |
 | [Rethinking the Learning Paradigm for Facial Expression Recognition](https://arxiv.org/pdf/2209.15402.pdf) | CVPR | ⭐️⭐️⭐️ | N/A |
 | [Micron-BERT: BERT-based Facial Micro-Expression Recognition](https://arxiv.org/pdf/2304.03195.pdf) | CVPR | ⭐️⭐️ | [PyTorch](https://github.com/uark-cviu/Micron-BERT) |
@@ -169,6 +178,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions](https://arxiv.org/pdf/2303.07697.pdf) | ICASSP | 2023 | ⭐️ | [Project](https://deepbrainai-research.github.io/discohead/) |
 | [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://github.com/Sxjdwang/TalkLip) | CVPR | 2023 | ⭐️⭐️ | [GitHub](https://github.com/Sxjdwang/TalkLip) |
 | [LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️ | N/A |
 | [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.pdf) | CVPR | 2023 | 🏆 | [GitHub](https://github.com/OpenTalker/SadTalker) |

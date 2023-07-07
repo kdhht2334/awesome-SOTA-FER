@@ -83,6 +83,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Cluster-level pseudo-labelling for source-free cross-domain facial expression recognition](https://arxiv.org/pdf/2210.05246.pdf) | BMVC | ⭐️⭐️ | [PyTorch](https://github.com/altndrr/clup) |
 | [Analysis of Semi-Supervised Methods for Facial Expression Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9953876&casa_token=RptxgdB8SrEAAAAA:maVFJFxUaED8NbBbIFLjn4HCTNqQhXR6dSXN1NgWaUkQgXimVX9-8WLx-Ob9Zk0i4GL5eCEAeA) | ACII | ⭐️ | [GitHub](https://github.com/ShuvenduRoy/SSL) |
 | [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) | ArXiv | 2022 | ⭐️ | [GitHub](https://github.com/zczcwh/POSTER) |
+| [In Search of a Robust Facial Expressions Recognition Model: A Large-scale Visual Cross-corpus Study](https://www.sciencedirect.com/science/article/pii/S0925231222012656) | Neurocomputing | 2022 | [GitHub](https://github.com/ElenaRyumina/EMO-AffectNetModel) |
 
 #### 2021 <a id="2021-c"></a>
 

@@ -14,6 +14,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Jul. 2023] Update AAAI 2023 paper.
 - [Jun. 2023] Update ICML 2023 / ICASSP 2023 papers.
 - [Apr. 2023] Update CVPR 2023 papers.
 - [Mar. 2023] Initial update for FER papers.
@@ -53,10 +54,9 @@ Please feel free to refer this repository for your FER research/development and 
 
 #### 2023 <a id="2023-c"></a>
 
-  - Trend in 2023 is `micro-expression recognition`??
-
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Learning Deep Hierarchical Features with Spatial Regularization for One-Class Facial Expression Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25749) | AAAI | ⭐️ | N/A |
 | [Facial Expression Recognition with Adaptive Frame Rate based on Multiple Testing Correction](https://openreview.net/pdf?id=DH11pt7S2t) | ICML | ⭐️⭐️ | N/A |
 | [Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition](https://arxiv.org/pdf/2304.04420.pdf) | CVPR | ⭐️⭐️ | N/A |
 | [Rethinking the Learning Paradigm for Facial Expression Recognition](https://arxiv.org/pdf/2209.15402.pdf) | CVPR | ⭐️⭐️⭐️ | N/A |

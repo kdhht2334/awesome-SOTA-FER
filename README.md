@@ -14,6 +14,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Aug. 2023] Update ICCV 2023 paper. Update workshop.
 - [Jul. 2023] Update AAAI 2023 paper.
 - [Jun. 2023] Update ICML 2023 / ICASSP 2023 papers.
 - [Apr. 2023] Update CVPR 2023 papers.
@@ -56,6 +57,10 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) |  ICCV Workshop (AMFG) | ⭐️⭐️ | [Github](https://github.com/zczcwh/POSTER) |
+| [GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images](https://arxiv.org/pdf/2308.03413v1.pdf) | ICCV | ⭐️⭐️⭐️ | N/A |
+| [LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise](https://arxiv.org/pdf/2307.09023.pdf) | ICCV | ⭐️ | N/A |
+| [Addressing Racial Bias in Facial Emotion Recognition](https://arxiv.org/pdf/2308.04674.pdf) | ArXiv | ⭐️ | N/A |
 | [Learning Deep Hierarchical Features with Spatial Regularization for One-Class Facial Expression Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25749) | AAAI | ⭐️ | N/A |
 | [Facial Expression Recognition with Adaptive Frame Rate based on Multiple Testing Correction](https://openreview.net/pdf?id=DH11pt7S2t) | ICML | ⭐️⭐️ | N/A |
 | [Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition](https://arxiv.org/pdf/2304.04420.pdf) | CVPR | ⭐️⭐️ | N/A |
@@ -252,7 +257,8 @@ Please feel free to refer this repository for your FER research/development and 
 | Affective Behavior Analysis In-the-Wild (3rd) | CVPR | 2022 | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2022-3rd-abaw/) [Paper](https://openaccess.thecvf.com/CVPR2022_workshops/ABAW) |
 | Affective Behavior Analysis In-the-Wild (4th) | ECCV | 2022 | [Site](https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/) |
 | The Multimodal Sentiment Analysis Challenge (MuSe) | ACM MM | 2022 | [Site](https://www.muse-challenge.org/) [Paper](https://arxiv.org/pdf/2207.05691.pdf) | 
-| Affective Behavior Analysis In-the-Wild (5th) | CVPR | 2023</br>(not yet) | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/) |
+| Affective Behavior Analysis In-the-Wild (5th) | CVPR | 2023 | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/) |
+| Emotionally And Culturally Intelligent AI (1st) | ICCV | 2023 | [Site](https://iccv23-wecia.github.io/) |
 
 
 ### Tools [back-to-top](#seven-emotion) <a id="tools"></a>

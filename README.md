@@ -14,7 +14,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
-- [Aug. 2023] Update ICCV 2023 paper. Update workshop.
+- [Aug. 2023] Update ICCV 2023 / ACM MM 2023 papers.
 - [Jul. 2023] Update AAAI 2023 paper.
 - [Jun. 2023] Update ICML 2023 / ICASSP 2023 papers.
 - [Apr. 2023] Update CVPR 2023 papers.
@@ -57,6 +57,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [MAE-DFER: Efficient Masked Autoencoder for Self-supervised Dynamic Facial Expression Recognition](https://arxiv.org/pdf/2307.02227.pdf) | ACM MM | ⭐️⭐️⭐️ | [PyTorch](https://github.com/sunlicai/MAE-DFER) |
 | [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) |  ICCV Workshop (AMFG) | ⭐️⭐️ | [Github](https://github.com/zczcwh/POSTER) |
 | [GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images](https://arxiv.org/pdf/2308.03413v1.pdf) | ICCV | ⭐️⭐️⭐️ | N/A |
 | [LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise](https://arxiv.org/pdf/2307.09023.pdf) | ICCV | ⭐️ | N/A |

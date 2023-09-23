@@ -14,7 +14,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
-- [Sep. 2023] Update BMVC 2023 paper.
+- [Sep. 2023] Update BMVC 2023 paper / Add `Dataset` section.
 - [Aug. 2023] Update ICCV 2023 / ACM MM 2023 papers.
 - [Jul. 2023] Update AAAI 2023 paper.
 - [Jun. 2023] Update ICML 2023 / ICASSP 2023 papers.
@@ -43,6 +43,8 @@ Please feel free to refer this repository for your FER research/development and 
 - [Facial Expression Manipulation and Synthesis](#fem)
     
 - [Emotion Recognition, Facial Representations, and Others](#er-fr-o)
+
+- [Datasets](#datasets)
 
 - [Challenges](#challenges)
   
@@ -245,6 +247,11 @@ Please feel free to refer this repository for your FER research/development and 
 | [Facial expression and emotion](http://gruberpeplab.com/5131/5_Ekman_1993_Faicalexpressionemotion.pdf) | American Psychologist | 1993 | 🏆 | N/A |
 | [Understanding face recognition](https://www.researchgate.net/profile/Louise_Hancock4/post/Are_there_any_research_to_reject_Bruce_and_Youngs_1986_theory_of_face_recognition/attachment/5f99527b7600090001f16eb1/AS%3A951570959183873%401603883604241/download/Bruce+and+Young+1986+Understanding+face+recognition.pdf) | British journal of psychology | 1986 | 🏆 | N/A |
 | [A circumplex model of affect](https://d1wqtxts1xzle7.cloudfront.net/38425675/Russell1980-libre.pdf?1439132613=&response-content-disposition=inline%3B+filename%3DRussell1980.pdf&Expires=1678728266&Signature=JLK-DCUZNrH3iP-f3l5kB4uxUV~VUIhB04KfodmthXNX8n07xP1qkQ8ghjD0xtJR68zGUpp~19S2mOlPPBILqURiMV0iRcYUkqNoydOt~He463YsZAWMp105JjJfe40vGP-mmh~p5Ba~x3tTjtHx5fGPX~r15bnRhsjF7Q8~qC4L9m8DX1l3V0XCgQ97Ry5hhzGLTnKuDbHdMPkrkNRC598ibi4Pe54yrzYA0HoBaM-x4M1fak~tq6zt4lfMbVVeP2aQvVYzEWOLzO60J5zYqot9gdRyXuTl0lvqUB~BIspke1ZE7q2pm89~ZkoxYHGu7hg32PnfAXtj4fa6Q-NYMA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) | Journal of Personality and Social Psychology | 1980 | 🏆 | N/A |
+
+
+### Datasets [back-to-top](#seven-emotion) <a id="datasets"></a>
+| Name | Venue | Year | Site |
+| [VEATIC: Video-based Emotion and Affect Tracking in Context Dataset](https://arxiv.org/pdf/2309.06745v2.pdf) | ArXiv | 2023 | [Project](https://veatic.github.io/) |
 
 
 ### Challenges [back-to-top](#seven-emotion) <a id="challenges"></a>

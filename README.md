@@ -207,8 +207,6 @@ Please feel free to refer this repository for your FER research/development and 
 
 ### Emotion Recognition, Facial Representations, and Others [back-to-top](#seven-emotion) <a id="er-fr-o"></a>
 
-  - `Dataset` papers will be divided soon or later 🥳
-
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
 | [Weakly Supervised Video Emotion Detection and Prediction via Cross-Modal Temporal Erasing Network](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Weakly_Supervised_Video_Emotion_Detection_and_Prediction_via_Cross-Modal_Temporal_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️ | [PyTorch](https://github.com/nku-zhichengzhang/WECL) |
@@ -219,14 +217,10 @@ Please feel free to refer this repository for your FER research/development and 
 | [Context De-confounded Emotion Recognition](https://arxiv.org/pdf/2303.11921.pdf) | CVPR | 2023 | ⭐️⭐️ | [PyTorch](https://github.com/ydk122024/CCIM) |
 | [More is Better: A Database for Spontaneous Micro-Expression with High Frame Rates](https://arxiv.org/pdf/2301.00985.pdf) | ArXiv | 2023 | ⭐️ | N/A |
 | [Pre-training strategies and datasets for facial representation learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730109.pdf) | ECCV | 2022 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/1adrianb/unsupervised-face-representation) |
-| [MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680457.pdf) | ECCV | 2022 | ⭐️⭐️ | [Github](https://github.com/apapaion/mimicme) |
-| [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670641.pdf) | ECCV | 2022 | ⭐️⭐️⭐️ | [Project](https://celebv-hq.github.io/) [GitHub](https://github.com/CelebV-HQ/CelebV-HQ) [Demo](https://www.youtube.com/watch?v=Y0uxlUW4sW0) |
-| [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_FERV39k_A_Large-Scale_Multi-Scene_Dataset_for_Facial_Expression_Recognition_in_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | [Data](https://github.com/wangyanckxx/FERV39k) |
 | [Multi-Dimensional, Nuanced and Subjective – Measuring the Perception of Facial Expressions](https://openaccess.thecvf.com/content/CVPR2022/papers/Bryant_Multi-Dimensional_Nuanced_and_Subjective_-_Measuring_the_Perception_of_Facial_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | N/A |
 | [General Facial Representation Learning in a Visual-Linguistic Manner](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_General_Facial_Representation_Learning_in_a_Visual-Linguistic_Manner_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/faceperceiver/farl) |
 | [Robust Egocentric Photo-realistic Facial Expression Transfer for Virtual Reality](https://openaccess.thecvf.com/content/CVPR2022/papers/Jourabloo_Robust_Egocentric_Photo-Realistic_Facial_Expression_Transfer_for_Virtual_Reality_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | N/A |
 | [Fair Contrastive Learning for Facial Attribute Classification](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Fair_Contrastive_Learning_for_Facial_Attribute_Classification_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/sungho-CoolG/FSCL) |
-| [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](https://arxiv.org/pdf/2208.00847) | ACM MM | 2022 | ⭐️ | [Site](https://mafw-database.github.io/MAFW/) |
 | [Quantified Facial Expressiveness for Affective Behavior Analytics](https://openaccess.thecvf.com/content/WACV2022/papers/Uddin_Quantified_Facial_Expressiveness_for_Affective_Behavior_Analytics_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Deep facial expression recognition: A survey](https://ieeexplore.ieee.org/iel7/5165369/5520654/09039580.pdf?casa_token=CAh7bbilIRMAAAAA:EI5iTZcdsqualuSwzc1Zrk7DgNI8aHgJJ5MYZ2R9RM3r3CHQWkimHChANibA9olNRYthY2ShZg) | IEEE TAC | 2020 | 🏆 | N/A |
 | [iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emotion Analysis](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_iMiGUE_An_Identity-Free_Video_Dataset_for_Micro-Gesture_Understanding_and_Emotion_CVPR_2021_paper.pdf) | CVPR | 2021 | ⭐️ | [Data](https://github.com/linuxsino/iMiGUE) |
@@ -238,9 +232,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [EmotiCon: Context-Aware Multimodal Emotion Recognition using Frege’s Principle](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mittal_EmotiCon_Context-Aware_Multimodal_Emotion_Recognition_Using_Freges_Principle_CVPR_2020_paper.pdf) | CVPR | 2020 | ⭐️ | [Site](https://gamma.umd.edu/researchdirections/affectivecomputing/emotionrecognition/emoticon/) |
 | [Learning Visual Emotion Representations from Web Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Learning_Visual_Emotion_Representations_From_Web_Data_CVPR_2020_paper.pdf) | CVPR | 2020 | ⭐️ | [Site](https://github.com/cvlab-stonybrook/EmotionNet_CVPR2020) |
 | [Computational Models of Emotion Inference in Theory of Mind: A Review and Roadmap](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.12371) | Topics in cognitive science | 2019 | ⭐️⭐️⭐️ | N/A |
-| [__Aff-wild2__: Extending the aff-wild database for affect recognition](https://arxiv.org/pdf/1811.07770) | ArXiv | 2018 | ⭐️⭐️ | N/A |
 | [Putting feelings into words: Affect labeling as implicit emotion regulation](https://journals.sagepub.com/doi/10.1177/1754073917742706) | Emotion Review | 2018 | ⭐️⭐️⭐️ | N/A |
-| [__Aff-wild__: valence and arousal 'In-the-Wild' challenge](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Zafeiriou_Aff-Wild_Valence_and_CVPR_2017_paper.pdf) | CVPRW | 2017 | ⭐️⭐️ | N/A |
 | [Affective cognition: Exploring lay theories of emotion](https://reader.elsevier.com/reader/sd/pii/S0010027715300196?token=5035CDA1C7A4252DE60FA657834E4BD568D820643E0D97128E504594DC5B0379E97E380A15E8D12031E97B737E62F68D&originRegion=us-east-1&originCreation=20230313150623) | Cognition</br>(ELSEVIER) | 2015 | ⭐️⭐️⭐️ | N/A |
 | [Facial Expression Recognition: A Survey](https://reader.elsevier.com/reader/sd/pii/S1877050915021225?token=CE361276875BD44CA05330858CBB8A98AF346C512168EA04E34373DD30AEDFB05227F8A8B2540DCA3AF68A29F552F5C1&originRegion=us-east-1&originCreation=20230313160446) | Procedia Computer Science</br>(ELSEVIER) | 2015 | ⭐️⭐️ | N/A |
 | [Norms of valence, arousal, and dominance for 13,915 English lemmas](https://link.springer.com/article/10.3758/s13428-012-0314-x) | Behavior Research Methods | 2013 | ⭐️⭐️ | N/A |
@@ -253,6 +245,12 @@ Please feel free to refer this repository for your FER research/development and 
 | Name | Venue | Year | Site |
 | :--- | :---: | :---:| :---:|
 | [VEATIC: Video-based Emotion and Affect Tracking in Context Dataset](https://arxiv.org/pdf/2309.06745v2.pdf) | ArXiv | 2023 | [Project](https://veatic.github.io/) |
+| [MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680457.pdf) | ECCV | 2022 | ⭐️⭐️ | [Github](https://github.com/apapaion/mimicme) |
+| [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670641.pdf) | ECCV | 2022 | ⭐️⭐️⭐️ | [Project](https://celebv-hq.github.io/) [GitHub](https://github.com/CelebV-HQ/CelebV-HQ) [Demo](https://www.youtube.com/watch?v=Y0uxlUW4sW0) |
+| [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_FERV39k_A_Large-Scale_Multi-Scene_Dataset_for_Facial_Expression_Recognition_in_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | [Data](https://github.com/wangyanckxx/FERV39k) |
+| [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](https://arxiv.org/pdf/2208.00847) | ACM MM | 2022 | ⭐️ | [Site](https://mafw-database.github.io/MAFW/) |
+| [__Aff-wild2__: Extending the aff-wild database for affect recognition](https://arxiv.org/pdf/1811.07770) | ArXiv | 2018 | ⭐️⭐️ | N/A |
+| [__Aff-wild__: valence and arousal 'In-the-Wild' challenge](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Zafeiriou_Aff-Wild_Valence_and_CVPR_2017_paper.pdf) | CVPRW | 2017 | ⭐️⭐️ | N/A |
 
 
 ### Challenges [back-to-top](#seven-emotion) <a id="challenges"></a>

@@ -60,11 +60,12 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
-| [Prompting Visual-Language Models for Dynamic Facial Expression Recognition](https://arxiv.org/pdf/2308.13382.pdf) | BMVC | ⭐️⭐️⭐️ | [PyTorch](https://github.com/zengqunzhao/DFER-CLIP) |
-| [MAE-DFER: Efficient Masked Autoencoder for Self-supervised Dynamic Facial Expression Recognition](https://arxiv.org/pdf/2307.02227.pdf) | ACM MM | ⭐️⭐️⭐️ | [PyTorch](https://github.com/sunlicai/MAE-DFER) |
 | [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) |  ICCV Workshop (AMFG) | ⭐️⭐️ | [Github](https://github.com/zczcwh/POSTER) |
 | [GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images](https://arxiv.org/pdf/2308.03413v1.pdf) | ICCV | ⭐️⭐️⭐️ | N/A |
 | [LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise](https://arxiv.org/pdf/2307.09023.pdf) | ICCV | ⭐️ | N/A |
+| [Latent-OFER: Detect, Mask, and Reconstruct with Latent Vectors for Occluded Facial Expression Recognition](https://arxiv.org/pdf/2307.11404.pdf) | ICCV | ⭐️⭐️ | [PyTorch](https://github.com/leeisack/Latent-OFER) |
+| [Prompting Visual-Language Models for Dynamic Facial Expression Recognition](https://arxiv.org/pdf/2308.13382.pdf) | BMVC | ⭐️⭐️⭐️ | [PyTorch](https://github.com/zengqunzhao/DFER-CLIP) |
+| [MAE-DFER: Efficient Masked Autoencoder for Self-supervised Dynamic Facial Expression Recognition](https://arxiv.org/pdf/2307.02227.pdf) | ACM MM | ⭐️⭐️⭐️ | [PyTorch](https://github.com/sunlicai/MAE-DFER) |
 | [Addressing Racial Bias in Facial Emotion Recognition](https://arxiv.org/pdf/2308.04674.pdf) | ArXiv | ⭐️ | N/A |
 | [Learning Deep Hierarchical Features with Spatial Regularization for One-Class Facial Expression Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/25749) | AAAI | ⭐️ | N/A |
 | [Facial Expression Recognition with Adaptive Frame Rate based on Multiple Testing Correction](https://openreview.net/pdf?id=DH11pt7S2t) | ICML | ⭐️⭐️ | N/A |
@@ -181,6 +182,9 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation](https://browse.arxiv.org/pdf/2303.11089.pdf) | ICCV | 2023 | ⭐️⭐️⭐️ | [Project](https://ziqiaopeng.github.io/emotalk/) |
+| [EMMN: Emotional Motion Memory Network for Audio-driven Emotional Talking Face Generation](https://openaccess.thecvf.com/content/ICCV2023/papers/Tan_EMMN_Emotional_Motion_Memory_Network_for_Audio-driven_Emotional_Talking_Face_ICCV_2023_paper.pdf) | ICCV | 2023 | ⭐️⭐️ | None |
+| [Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation](https://arxiv.org/pdf/2309.04946.pdf) | ICCV | 2023 | ⭐️⭐️ | [Project](https://yuangan.github.io/eat/) |
 | [DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions](https://arxiv.org/pdf/2303.07697.pdf) | ICASSP | 2023 | ⭐️ | [Project](https://deepbrainai-research.github.io/discohead/) |
 | [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://github.com/Sxjdwang/TalkLip) | CVPR | 2023 | ⭐️⭐️ | [GitHub](https://github.com/Sxjdwang/TalkLip) |
 | [LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️ | N/A |
@@ -193,6 +197,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Sparse to Dense Dynamic 3D Facial Expression Generation](https://openaccess.thecvf.com/content/CVPR2022/papers/Otberdout_Sparse_to_Dense_Dynamic_3D_Facial_Expression_Generation_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | [GitHub](https://github.com/CRISTAL-3DSAM/Sparse2Dense) |
 | [Neural Emotion Director: Speech-preserving semantic control of facial expressions in “in-the-wild” videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Papantoniou_Neural_Emotion_Director_Speech-Preserving_Semantic_Control_of_Facial_Expressions_in_CVPR_2022_paper.pdf) | CVPR</br>(best paper finalist) | 2022 | ⭐️⭐️⭐️ | [Site](https://foivospar.github.io/NED/) |
 | [TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_TransEditor_Transformer-Based_Dual-Space_GAN_for_Highly_Controllable_Facial_Editing_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | [PyTorch](https://github.com/BillyXYB/TransEditor) |
+| [EAMM: One-Shot Emotional Talking Face via Audio-Based Emotion-Aware Motion Model](https://browse.arxiv.org/pdf/2205.15278.pdf) | SIGGRAPH | 2022 | ⭐️⭐️ | [Project](https://jixinya.github.io/projects/EAMM/) |
 | [Information Bottlenecked Variational Autoencoder for Disentangled 3D Facial Expression Modelling](https://openaccess.thecvf.com/content/WACV2022/papers/Sun_Information_Bottlenecked_Variational_Autoencoder_for_Disentangled_3D_Facial_Expression_Modelling_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Detection and Localization of Facial Expression Manipulations](https://openaccess.thecvf.com/content/WACV2022/papers/Mazaheri_Detection_and_Localization_of_Facial_Expression_Manipulations_WACV_2022_paper.pdf) | WACV | 2022 | ⭐️ | N/A |
 | [Learning an Animatable Detailed 3D Face Model from In-The-Wild Images](https://arxiv.org/pdf/2012.04012) | SIGGRAPH | 2021 | ⭐️⭐️⭐️ | [Project](https://deca.is.tue.mpg.de/) |
@@ -209,6 +214,8 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Emotional Listener Portrait: Realistic Listener Motion Simulation in Conversation](https://openaccess.thecvf.com/content/ICCV2023/papers/Song_Emotional_Listener_Portrait_Neural_Listener_Head_Generation_with_Emotion_ICCV_2023_paper.pdf) | ICCV | 2023 | ⭐️⭐️ | None |
+| [Affective Image Filter: Reflecting Emotions from Text to Images](https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Affective_Image_Filter_Reflecting_Emotions_from_Text_to_Images_ICCV_2023_paper.pdf) | ICCV | 2023 | ⭐️⭐️ | None |
 | [Weakly Supervised Video Emotion Detection and Prediction via Cross-Modal Temporal Erasing Network](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Weakly_Supervised_Video_Emotion_Detection_and_Prediction_via_Cross-Modal_Temporal_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️ | [PyTorch](https://github.com/nku-zhichengzhang/WECL) |
 | [Learning Emotion Representations from Verbal and Nonverbal Communication](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Learning_Emotion_Representations_From_Verbal_and_Nonverbal_Communication_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️⭐️ | [GitHub](https://github.com/Xeaver/EmotionCLIP) |
 | [Multivariate, Multi-frequency and Multimodal: Rethinking Graph Neural Networks for Emotion Recognition in Conversation](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Multivariate_Multi-Frequency_and_Multimodal_Rethinking_Graph_Neural_Networks_for_Emotion_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️ | N/A |
@@ -242,8 +249,9 @@ Please feel free to refer this repository for your FER research/development and 
 
 
 ### Datasets [back-to-top](#seven-emotion) <a id="datasets"></a>
-| Name | Venue | Year | Site |
-| :--- | :---: | :---:| :---:|
+| Name | Venue | Year | Impact | Site |
+| :--- | :---: | :---:| :---:  | :---:|
+| [EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes](https://arxiv.org/pdf/2307.07961.pdf) | ICCV | 2023 | ⭐️⭐️ | [Project](https://vcc.tech/EmoSet) |
 | [VEATIC: Video-based Emotion and Affect Tracking in Context Dataset](https://arxiv.org/pdf/2309.06745v2.pdf) | ArXiv | 2023 | [Project](https://veatic.github.io/) |
 | [MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680457.pdf) | ECCV | 2022 | ⭐️⭐️ | [Github](https://github.com/apapaion/mimicme) |
 | [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670641.pdf) | ECCV | 2022 | ⭐️⭐️⭐️ | [Project](https://celebv-hq.github.io/) [GitHub](https://github.com/CelebV-HQ/CelebV-HQ) [Demo](https://www.youtube.com/watch?v=Y0uxlUW4sW0) |

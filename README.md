@@ -252,13 +252,13 @@ Please feel free to refer this repository for your FER research/development and 
 | Name | Venue | Year | Impact | Site |
 | :--- | :---: | :---:| :---:  | :---:|
 | [EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes](https://arxiv.org/pdf/2307.07961.pdf) | ICCV | 2023 | ⭐️⭐️ | [Project](https://vcc.tech/EmoSet) |
-| [VEATIC: Video-based Emotion and Affect Tracking in Context Dataset](https://arxiv.org/pdf/2309.06745v2.pdf) | ArXiv | 2023 | [Project](https://veatic.github.io/) |
+| [VEATIC: Video-based Emotion and Affect Tracking in Context Dataset](https://arxiv.org/pdf/2309.06745v2.pdf) | ArXiv | 2023 | ⭐️ | [Project](https://veatic.github.io/) |
 | [MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680457.pdf) | ECCV | 2022 | ⭐️⭐️ | [Github](https://github.com/apapaion/mimicme) |
 | [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670641.pdf) | ECCV | 2022 | ⭐️⭐️⭐️ | [Project](https://celebv-hq.github.io/) [GitHub](https://github.com/CelebV-HQ/CelebV-HQ) [Demo](https://www.youtube.com/watch?v=Y0uxlUW4sW0) |
 | [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_FERV39k_A_Large-Scale_Multi-Scene_Dataset_for_Facial_Expression_Recognition_in_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | [Data](https://github.com/wangyanckxx/FERV39k) |
 | [MAFW: A Large-scale, Multi-modal, Compound Affective Database for Dynamic Facial Expression Recognition in the Wild](https://arxiv.org/pdf/2208.00847) | ACM MM | 2022 | ⭐️ | [Site](https://mafw-database.github.io/MAFW/) |
-| [__Aff-wild2__: Extending the aff-wild database for affect recognition](https://arxiv.org/pdf/1811.07770) | ArXiv | 2018 | ⭐️⭐️ | N/A |
-| [__Aff-wild__: valence and arousal 'In-the-Wild' challenge](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Zafeiriou_Aff-Wild_Valence_and_CVPR_2017_paper.pdf) | CVPRW | 2017 | ⭐️⭐️ | N/A |
+| [__Aff-wild2__: Extending the aff-wild database for affect recognition](https://arxiv.org/pdf/1811.07770) | ArXiv | 2018 | ⭐️⭐️ | [Project](https://ibug.doc.ic.ac.uk/resources/aff-wild2/) |
+| [__Aff-wild__: valence and arousal 'In-the-Wild' challenge](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w33/papers/Zafeiriou_Aff-Wild_Valence_and_CVPR_2017_paper.pdf) | CVPRW | 2017 | ⭐️⭐️ | [Project](https://ibug.doc.ic.ac.uk/resources/first-affect-wild-challenge/) |
 
 
 ### Challenges [back-to-top](#seven-emotion) <a id="challenges"></a>

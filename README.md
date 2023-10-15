@@ -267,6 +267,7 @@ Please feel free to refer this repository for your FER research/development and 
 | :--- | :---: | :---:| :---:|
 | Facial Expression Recognition and Analysis Challenge | FG | 2015 | [Site](https://ibug.doc.ic.ac.uk/resources/FERA15/) |
 | Emotion Recognition in the Wild Challenge (EmotiW) | ICMI | 2013-2018 | [Site](https://sites.google.com/view/emotiw2018) |
+| Emotion Recognition in the Wild Challenge (EmotiW) | ICMI | 2023 | [Site](https://sites.google.com/view/emotiw2023) |
 | Affect Recognition in-the-wild: Uni/Multi-Modal Analysis & VA-AU-Expression Challenges | FG | 2020 | [Site](https://ibug.doc.ic.ac.uk/resources/affect-recognition-wild-unimulti-modal-analysis-va/) |
 | Affective Behavior Analysis In-the-Wild (1st) | FG | 2020 | [Site](https://ibug.doc.ic.ac.uk/resources/fg-2020-competition-affective-behavior-analysis/) |
 | Deepfake Detection Challenge | - | 2020 | [Site](https://ai.facebook.com/datasets/dfdc/) [Paper](https://arxiv.org/pdf/1910.08854.pdf) [GitHub](https://github.com/selimsef/dfdc_deepfake_challenge) | 

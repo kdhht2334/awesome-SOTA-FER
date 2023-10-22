@@ -14,6 +14,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Oct. 2023] Update ACII 2023 paper / Fix details.
 - [Sep. 2023] Update BMVC 2023 paper / Add `Dataset` section.
 - [Aug. 2023] Update ICCV 2023 / ACM MM 2023 papers.
 - [Jul. 2023] Update AAAI 2023 paper.
@@ -215,6 +216,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Towards affective computing that works for everyone](https://arxiv.org/abs/2309.10780) | ACII | 2023 | ⭐️⭐️⭐️ | None |
 | [Emotional Listener Portrait: Realistic Listener Motion Simulation in Conversation](https://openaccess.thecvf.com/content/ICCV2023/papers/Song_Emotional_Listener_Portrait_Neural_Listener_Head_Generation_with_Emotion_ICCV_2023_paper.pdf) | ICCV | 2023 | ⭐️⭐️ | None |
 | [Affective Image Filter: Reflecting Emotions from Text to Images](https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Affective_Image_Filter_Reflecting_Emotions_from_Text_to_Images_ICCV_2023_paper.pdf) | ICCV | 2023 | ⭐️⭐️ | None |
 | [Weakly Supervised Video Emotion Detection and Prediction via Cross-Modal Temporal Erasing Network](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Weakly_Supervised_Video_Emotion_Detection_and_Prediction_via_Cross-Modal_Temporal_CVPR_2023_paper.pdf) | CVPR | 2023 | ⭐️ | [PyTorch](https://github.com/nku-zhichengzhang/WECL) |

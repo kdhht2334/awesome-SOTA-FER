@@ -1,5 +1,5 @@
 # awesome-SOTA-FER
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of facial expression recognition in both 7-emotion classification and affect estimation. In addition, this repository includes basic studies on FER and recent datasets.
 
@@ -60,6 +60,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [ASM: Adaptive Sample Mining for In-The-Wild Facial Expression Recognition](https://arxiv.org/pdf/2310.05618.pdf) | ArXiv | ⭐️⭐️ | [GitHub](https://github.com/zzzzzzyang/ASM) |
 | [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) |  ICCV Workshop (AMFG) | ⭐️⭐️ | [Github](https://github.com/zczcwh/POSTER) |
 | [GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images](https://arxiv.org/pdf/2308.03413v1.pdf) | ICCV | ⭐️⭐️⭐️ | N/A |
 | [LA-Net: Landmark-Aware Learning for Reliable Facial Expression Recognition under Label Noise](https://arxiv.org/pdf/2307.09023.pdf) | ICCV | ⭐️ | N/A |

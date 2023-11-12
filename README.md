@@ -14,6 +14,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Nov. 2023] Update NeurIPS 2023 paper.
 - [Oct. 2023] Update ACII 2023 paper / Fix details.
 - [Sep. 2023] Update BMVC 2023 paper / Add `Dataset` section.
 - [Aug. 2023] Update ICCV 2023 / ACM MM 2023 papers.
@@ -61,6 +62,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Leave No Stone Unturned: Mine Extra Knowledge for Imbalanced Facial Expression Recognition](https://arxiv.org/pdf/2310.19636.pdf) | NeurIPS | ⭐️⭐️⭐️ | [PyTorch](https://github.com/zyh-uaiaaaa/Mine-Extra-Knowledge) |
 | [ASM: Adaptive Sample Mining for In-The-Wild Facial Expression Recognition](https://arxiv.org/pdf/2310.05618.pdf) | ArXiv | ⭐️⭐️ | [GitHub](https://github.com/zzzzzzyang/ASM) |
 | [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) |  ICCV Workshop (AMFG) | ⭐️⭐️ | [Github](https://github.com/zczcwh/POSTER) |
 | [GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images](https://arxiv.org/pdf/2308.03413v1.pdf) | ICCV | ⭐️⭐️⭐️ | N/A |

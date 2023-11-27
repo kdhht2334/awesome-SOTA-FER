@@ -136,6 +136,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [3DEmo: for Portrait Emotion Recognition with New Dataset](https://dl.acm.org/doi/pdf/10.1145/3631133) | ACM Journal on Computing and Cultural Heritage | ⭐️⭐️ | None |
 | [Optimal Transport-based Identity Matching for Identity-invariant Facial Expression Recognition](https://arxiv.org/pdf/2209.12172.pdf) | NeurIPS</br>(spotlight) | 2022 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/kdhht2334/ELIM_FER) |
 | [Emotion-aware Multi-view Contrastive Learning for Faciel Emotion Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730181.pdf) | ECCV | 2022 | ⭐️ | [PyTorch](https://github.com/kdhht2334/AVCE_FER) |
 | [Learning from Label Relationships in Human Affect](https://arxiv.org/pdf/2207.05577.pdf) | ACM MM | 2022 | ⭐️ | N/A |
@@ -166,6 +167,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Walk as you feel: Privacy preserving emotion recognition from gait patterns](https://www.sciencedirect.com/science/article/pii/S0952197623017499) | EAAI (ELSEVIER) | 2023 | 
 | [GANonymization: A GAN-based Face Anonymization Framework for Preserving Emotional Expressions](https://arxiv.org/pdf/2305.02143.pdf) | ACM Transactions on MCCA | 2023 | ⭐️⭐️ | None |
 | [Simulated adversarial testing of face recognition models](https://openaccess.thecvf.com/content/CVPR2022/papers/Ruiz_Simulated_Adversarial_Testing_of_Face_Recognition_Models_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | N/A |
 | [Exploring frequency adversarial attacks for face forgery detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Jia_Exploring_Frequency_Adversarial_Attacks_for_Face_Forgery_Detection_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | N/A |
@@ -218,6 +220,8 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [An Empirical Study of Super-resolution on Low-resolution Micro-expression Recognition](https://arxiv.org/pdf/2310.10022.pdf) | ArXiv | 2023 | ⭐️⭐️ | None |
+| [EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition](https://arxiv.org/pdf/2310.16640.pdf) | ArXiv | 2023 | ⭐️⭐️ | [PyTorch](https://github.com/NickyFot/EmoCLIP) |
 | [Towards affective computing that works for everyone](https://arxiv.org/abs/2309.10780) | ACII | 2023 | ⭐️⭐️⭐️ | None |
 | [Emotional Listener Portrait: Realistic Listener Motion Simulation in Conversation](https://openaccess.thecvf.com/content/ICCV2023/papers/Song_Emotional_Listener_Portrait_Neural_Listener_Head_Generation_with_Emotion_ICCV_2023_paper.pdf) | ICCV | 2023 | ⭐️⭐️ | None |
 | [Affective Image Filter: Reflecting Emotions from Text to Images](https://openaccess.thecvf.com/content/ICCV2023/papers/Weng_Affective_Image_Filter_Reflecting_Emotions_from_Text_to_Images_ICCV_2023_paper.pdf) | ICCV | 2023 | ⭐️⭐️ | None |

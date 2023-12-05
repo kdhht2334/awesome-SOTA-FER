@@ -75,7 +75,6 @@ Please feel free to refer this repository for your FER research/development and 
 | [Facial Expression Recognition with Adaptive Frame Rate based on Multiple Testing Correction](https://openreview.net/pdf?id=DH11pt7S2t) | ICML | ⭐️⭐️ | N/A |
 | [Feature Representation Learning with Adaptive Displacement Generation and Transformer Fusion for Micro-Expression Recognition](https://arxiv.org/pdf/2304.04420.pdf) | CVPR | ⭐️⭐️ | N/A |
 | [Rethinking the Learning Paradigm for Facial Expression Recognition](https://arxiv.org/pdf/2209.15402.pdf) | CVPR | ⭐️⭐️⭐️ | N/A |
-| [Micron-BERT: BERT-based Facial Micro-Expression Recognition](https://arxiv.org/pdf/2304.03195.pdf) | CVPR | ⭐️⭐️ | [PyTorch](https://github.com/uark-cviu/Micron-BERT) |
 | [Multi-Domain Norm-Referenced Encoding enables Data Efficient Transformer Learning of Facial Expression Recognition](https://arxiv.org/pdf/2304.02309v1.pdf) | ArXiv | ⭐️⭐️ | N/A |
 | [Uncertainty-aware Label Distribution Learning for Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2023/papers/Le_Uncertainty-Aware_Label_Distribution_Learning_for_Facial_Expression_Recognition_WACV_2023_paper.pdf) | WACV | ⭐️⭐️ | [TensorFlow](https://github.com/minhnhatvt/label-distribution-learning-fer-tf/) |
 | [POSTER V2: A simpler and stronger facial expression recognition network](https://arxiv.org/pdf/2301.12149.pdf) | ArXiv | ⭐️⭐️ | [PyTorch](https://github.com/Talented-Q/POSTER_V2) |

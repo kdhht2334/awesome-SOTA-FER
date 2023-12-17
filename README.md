@@ -219,6 +219,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations](https://arxiv.org/pdf/2312.06337.pdf) | ArXiv | 2023 | ⭐️⭐️ | None |
 | [An Empirical Study of Super-resolution on Low-resolution Micro-expression Recognition](https://arxiv.org/pdf/2310.10022.pdf) | ArXiv | 2023 | ⭐️⭐️ | None |
 | [EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition](https://arxiv.org/pdf/2310.16640.pdf) | ArXiv | 2023 | ⭐️⭐️ | [PyTorch](https://github.com/NickyFot/EmoCLIP) |
 | [Towards affective computing that works for everyone](https://arxiv.org/abs/2309.10780) | ACII | 2023 | ⭐️⭐️⭐️ | None |

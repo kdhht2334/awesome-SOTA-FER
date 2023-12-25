@@ -195,7 +195,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
-| [EmoStyle: One-Shot Facial Expression Editing Using Continuous Emotion Parameters](https://openaccess.thecvf.com/content/WACV2024/papers/Azari_EmoStyle_One-Shot_Facial_Expression_Editing_Using_Continuous_Emotion_Parameters_WACV_2024_paper.pdf) | WACV | 2023 | ⭐️⭐️⭐️ | [Project](https://bihamta.github.io/emostyle/) |
+| [EmoStyle: One-Shot Facial Expression Editing Using Continuous Emotion Parameters](https://openaccess.thecvf.com/content/WACV2024/papers/Azari_EmoStyle_One-Shot_Facial_Expression_Editing_Using_Continuous_Emotion_Parameters_WACV_2024_paper.pdf) | WACV | 2024 | ⭐️⭐️⭐️ | [Project](https://bihamta.github.io/emostyle/) |
 | [EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation](https://browse.arxiv.org/pdf/2303.11089.pdf) | ICCV | 2023 | ⭐️⭐️⭐️ | [Project](https://ziqiaopeng.github.io/emotalk/) |
 | [EMMN: Emotional Motion Memory Network for Audio-driven Emotional Talking Face Generation](https://openaccess.thecvf.com/content/ICCV2023/papers/Tan_EMMN_Emotional_Motion_Memory_Network_for_Audio-driven_Emotional_Talking_Face_ICCV_2023_paper.pdf) | ICCV | 2023 | ⭐️⭐️ | None |
 | [Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation](https://arxiv.org/pdf/2309.04946.pdf) | ICCV | 2023 | ⭐️⭐️ | [Project](https://yuangan.github.io/eat/) |

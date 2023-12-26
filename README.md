@@ -228,6 +228,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Beyond Accuracy: Fairness, Scalability, and Uncertainty Considerations in Facial Emotion Recognition](https://openreview.net/pdf?id=HRj4VRUPtV) | NLDL | 2024 | ⭐️⭐️⭐️ | None |
 | [Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations](https://arxiv.org/pdf/2312.06337.pdf) | ArXiv | 2023 | ⭐️⭐️ | None |
 | [An Empirical Study of Super-resolution on Low-resolution Micro-expression Recognition](https://arxiv.org/pdf/2310.10022.pdf) | ArXiv | 2023 | ⭐️⭐️ | None |
 | [EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition](https://arxiv.org/pdf/2310.16640.pdf) | ArXiv | 2023 | ⭐️⭐️ | [PyTorch](https://github.com/NickyFot/EmoCLIP) |

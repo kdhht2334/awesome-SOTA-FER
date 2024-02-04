@@ -63,6 +63,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Open-Set Facial Expression Recognition](https://arxiv.org/pdf/2401.12507.pdf) | AAAI | ⭐️⭐️⭐️ | [GitHub](https://github.com/zyh-uaiaaaa) |
 | [MIDAS: Mixing Ambiguous Data with Soft Labels for Dynamic Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2024/papers/Kawamura_MIDAS_Mixing_Ambiguous_Data_With_Soft_Labels_for_Dynamic_Facial_WACV_2024_paper.pdf) | WACV | ⭐️ | N/A |
 | [Hard Sample-aware Consistency for Low-resolution Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Hard_Sample-Aware_Consistency_for_Low-Resolution_Facial_Expression_Recognition_WACV_2024_paper.pdf) | WACV | ⭐️ | N/A |
 
@@ -228,6 +229,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport](https://arxiv.org/pdf/2401.15489.pdf) | ArXiv | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/haseebaslam95/PKDOT) |
 | [Beyond Accuracy: Fairness, Scalability, and Uncertainty Considerations in Facial Emotion Recognition](https://openreview.net/pdf?id=HRj4VRUPtV) | NLDL | 2024 | ⭐️⭐️⭐️ | None |
 | [Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations](https://arxiv.org/pdf/2312.06337.pdf) | ArXiv | 2023 | ⭐️⭐️ | None |
 | [An Empirical Study of Super-resolution on Low-resolution Micro-expression Recognition](https://arxiv.org/pdf/2310.10022.pdf) | ArXiv | 2023 | ⭐️⭐️ | None |
@@ -270,8 +272,8 @@ Please feel free to refer this repository for your FER research/development and 
 ### Datasets [back-to-top](#seven-emotion) <a id="datasets"></a>
 | Name | Venue | Year | Impact | Site |
 | :--- | :---: | :---:| :---:  | :---:|
+| [VEATIC: Video-based Emotion and Affect Tracking in Context Dataset](https://arxiv.org/pdf/2309.06745v2.pdf) | WACV | 2024 | ⭐️ | [Project](https://veatic.github.io/) |
 | [EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes](https://arxiv.org/pdf/2307.07961.pdf) | ICCV | 2023 | ⭐️⭐️ | [Project](https://vcc.tech/EmoSet) |
-| [VEATIC: Video-based Emotion and Affect Tracking in Context Dataset](https://arxiv.org/pdf/2309.06745v2.pdf) | ArXiv | 2023 | ⭐️ | [Project](https://veatic.github.io/) |
 | [MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680457.pdf) | ECCV | 2022 | ⭐️⭐️ | [Github](https://github.com/apapaion/mimicme) |
 | [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670641.pdf) | ECCV | 2022 | ⭐️⭐️⭐️ | [Project](https://celebv-hq.github.io/) [GitHub](https://github.com/CelebV-HQ/CelebV-HQ) [Demo](https://www.youtube.com/watch?v=Y0uxlUW4sW0) |
 | [FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_FERV39k_A_Large-Scale_Multi-Scene_Dataset_for_Facial_Expression_Recognition_in_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️⭐️ | [Data](https://github.com/wangyanckxx/FERV39k) |

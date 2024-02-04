@@ -14,6 +14,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Feb. 2024] Update AAAI and ArXiv papers.
 - [Jan. 2024] Update few ArXiv papers.
 - [Nov. 2023] Update NeurIPS 2023 / ArXiv papers.
 - [Oct. 2023] Update ACII 2023 paper / Fix details.

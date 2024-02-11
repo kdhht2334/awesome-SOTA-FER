@@ -274,6 +274,7 @@ Please feel free to refer this repository for your FER research/development and 
 ### Datasets [back-to-top](#seven-emotion) <a id="datasets"></a>
 | Name | Venue | Year | Impact | Site |
 | :--- | :---: | :---:| :---:  | :---:|
+| [FindingEmo: An Image Dataset for Emotion Recognition in the Wild](https://arxiv.org/pdf/2402.01355.pdf) | ArXiv | 2024 | ⭐️⭐️ | N/A |
 | [VEATIC: Video-based Emotion and Affect Tracking in Context Dataset](https://arxiv.org/pdf/2309.06745v2.pdf) | WACV | 2024 | ⭐️ | [Project](https://veatic.github.io/) |
 | [EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes](https://arxiv.org/pdf/2307.07961.pdf) | ICCV | 2023 | ⭐️⭐️ | [Project](https://vcc.tech/EmoSet) |
 | [MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680457.pdf) | ECCV | 2022 | ⭐️⭐️ | [Github](https://github.com/apapaion/mimicme) |

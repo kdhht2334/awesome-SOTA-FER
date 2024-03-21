@@ -178,7 +178,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
-| [ϵ-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition](https://arxiv.org/pdf/2403.06661v1.pdf) | FG | ⭐️⭐️⭐️ | [PyTorch](https://github.com/batuceng/e-mesh-attack) |
+| [ϵ-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition](https://arxiv.org/pdf/2403.06661v1.pdf) | FG | 2024 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/batuceng/e-mesh-attack) |
 | [Walk as you feel: Privacy preserving emotion recognition from gait patterns](https://www.sciencedirect.com/science/article/pii/S0952197623017499) | EAAI (ELSEVIER) | 2023 | ⭐️ | N/A |
 | [GANonymization: A GAN-based Face Anonymization Framework for Preserving Emotional Expressions](https://arxiv.org/pdf/2305.02143.pdf) | ACM Transactions on MCCA | 2023 | ⭐️⭐️ | N/A |
 | [Simulated adversarial testing of face recognition models](https://openaccess.thecvf.com/content/CVPR2022/papers/Ruiz_Simulated_Adversarial_Testing_of_Face_Recognition_Models_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️⭐️ | N/A |
@@ -233,7 +233,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
-| [DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition](https://arxiv.org/pdf/2403.08318.pdf) | FG | ⭐️⭐️ | N/A |
+| [DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition](https://arxiv.org/pdf/2403.08318.pdf) | FG | 2024 | ⭐️⭐️ | N/A |
 | [Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport](https://arxiv.org/pdf/2401.15489.pdf) | ArXiv | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/haseebaslam95/PKDOT) |
 | [Beyond Accuracy: Fairness, Scalability, and Uncertainty Considerations in Facial Emotion Recognition](https://openreview.net/pdf?id=HRj4VRUPtV) | NLDL | 2024 | ⭐️⭐️⭐️ | None |
 | [Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations](https://arxiv.org/pdf/2312.06337.pdf) | ArXiv | 2023 | ⭐️⭐️ | None |

@@ -14,6 +14,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Apr. 2024] Make `Multi-modal, EEG-based Emotion Recognition` section. Update papers.
 - [Mar. 2024] Update FG papers.
 - [Feb. 2024] Update AAAI and ArXiv papers.
 - [Jan. 2024] Update few ArXiv papers.
@@ -45,6 +46,8 @@ Please feel free to refer this repository for your FER research/development and 
 - [Facial Action Unit (AU) Detection (or Recognition)](#au)
 
 - [Privacy-aware Facial Expression Recognition](#privacy)
+
+- [Multi-modal, EEG-based Emotion Recognition](#mm-er)
     
 - [Facial Expression Manipulation and Synthesis](#fem)
     
@@ -144,7 +147,6 @@ Please feel free to refer this repository for your FER research/development and 
 
 ### Valence-arousal Affect Estimation [back-to-top](#seven-emotion) <a id="affect"></a>
 
-
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
 | [3DEmo: for Portrait Emotion Recognition with New Dataset](https://dl.acm.org/doi/pdf/10.1145/3631133) | ACM Journal on Computing and Cultural Heritage | 2023 | ⭐️⭐️ | None |
@@ -164,6 +166,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Trend-Aware Supervision: On Learning Invariance for Semi-supervised Facial Action Unit Intensity Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/27803) | AAAI | 2024 | ⭐️⭐️ | N/A |
 | [FAN-Trans: Online Knowledge Distillation for Facial Action Unit Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Yang_FAN-Trans_Online_Knowledge_Distillation_for_Facial_Action_Unit_Detection_WACV_2023_paper.pdf) | WACV | 2023 | ⭐️ | N/A |
 | [Knowledge-Driven Self-Supervised Representation Learning for Facial Action Unit Recognition](https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_Knowledge-Driven_Self-Supervised_Representation_Learning_for_Facial_Action_Unit_Recognition_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | N/A |
 | [Towards Accurate Facial Landmark Detection via Cascaded Transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Towards_Accurate_Facial_Landmark_Detection_via_Cascaded_Transformers_CVPR_2022_paper.pdf) | CVPR | 2022 | ⭐️ | N/A |
@@ -194,12 +197,20 @@ Please feel free to refer this repository for your FER research/development and 
 | [Disentangled Representation with Dual-stage Feature Learning for Face Anti-spoofing](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_Disentangled_Representation_With_Dual-Stage_Feature_Learning_for_Face_Anti-Spoofing_WACV_2022_paper.pdf) | WACV | 2021 | ⭐️ | N/A |
 
 
+### Multi-modal, EEG-based Emotion Recognition [back-to-top](#multi-modal) <a id="mm-er"></a>
+| Paper | Venue | Year | Impact | Code |
+| :---  | :---: | :---:| :---:  | :---:|
+| [Beyond Mimicking Under-Represented Emotions: Deep Data Augmentation with Emotional Subspace Constraints for EEG-Based Emotion Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/28891) | AAAI | 2024 | ⭐️⭐️ | N/A |
+| [A Brain-Inspired Way of Reducing the Network Complexity via Concept-Regularized Coding for Emotion Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/27811) | AAAI | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/hanluyt/emotion-conceptual-knowledge) |
+
+
 ### Facial Expression Manipulation and Synthesis [back-to-top](#seven-emotion) <a id="fem"></a>
 
   - Uprising `Talking face generation task` is included here!
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [FG-EmoTalk: Talking Head Video Generation with Fine-Grained Controllable Facial Expressions](https://ojs.aaai.org/index.php/AAAI/article/view/28309) | AAAI | 2024 | ⭐️⭐️ | N/A |
 | [EmoStyle: One-Shot Facial Expression Editing Using Continuous Emotion Parameters](https://openaccess.thecvf.com/content/WACV2024/papers/Azari_EmoStyle_One-Shot_Facial_Expression_Editing_Using_Continuous_Emotion_Parameters_WACV_2024_paper.pdf) | WACV | 2024 | ⭐️⭐️⭐️ | [Project](https://bihamta.github.io/emostyle/) |
 | [EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation](https://browse.arxiv.org/pdf/2303.11089.pdf) | ICCV | 2023 | ⭐️⭐️⭐️ | [Project](https://ziqiaopeng.github.io/emotalk/) |
 | [EMMN: Emotional Motion Memory Network for Audio-driven Emotional Talking Face Generation](https://openaccess.thecvf.com/content/ICCV2023/papers/Tan_EMMN_Emotional_Motion_Memory_Network_for_Audio-driven_Emotional_Talking_Face_ICCV_2023_paper.pdf) | ICCV | 2023 | ⭐️⭐️ | None |
@@ -233,6 +244,9 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Emotion Recognition from the perspective of Activity Recognition](https://arxiv.org/abs/2403.16263) | ArXiv | 2024 | ⭐️ | N/A |
+| [GPT as Psychologist? Preliminary Evaluations for GPT-4V on Visual Affective Computing](https://arxiv.org/abs/2403.05916) | ArXiv | 2024 | ⭐️⭐️⭐️ | [GitHub](https://github.com/EnVision-Research/GPT4Affectivity) |
+| [The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition](https://arxiv.org/pdf/2403.17125.pdf) | ArXiv | 2024 | ⭐️ | N/A |
 | [DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition](https://arxiv.org/pdf/2403.08318.pdf) | FG | 2024 | ⭐️⭐️ | N/A |
 | [Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport](https://arxiv.org/pdf/2401.15489.pdf) | ArXiv | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/haseebaslam95/PKDOT) |
 | [Beyond Accuracy: Fairness, Scalability, and Uncertainty Considerations in Facial Emotion Recognition](https://openreview.net/pdf?id=HRj4VRUPtV) | NLDL | 2024 | ⭐️⭐️⭐️ | None |
@@ -304,6 +318,7 @@ Please feel free to refer this repository for your FER research/development and 
 | The Multimodal Sentiment Analysis Challenge (MuSe) | ACM MM | 2022 | [Site](https://www.muse-challenge.org/) [Paper](https://arxiv.org/pdf/2207.05691.pdf) | 
 | Affective Behavior Analysis In-the-Wild (5th) | CVPR | 2023 | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/) |
 | Emotionally And Culturally Intelligent AI (1st) | ICCV | 2023 | [Site](https://iccv23-wecia.github.io/) |
+| Affective Behavior Analysis in-the-wild (6th) | CVPR | 2024 | [Site](https://affective-behavior-analysis-in-the-wild.github.io/6th/) |
 
 
 ### Tools [back-to-top](#seven-emotion) <a id="tools"></a>

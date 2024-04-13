@@ -197,7 +197,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [Disentangled Representation with Dual-stage Feature Learning for Face Anti-spoofing](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_Disentangled_Representation_With_Dual-Stage_Feature_Learning_for_Face_Anti-Spoofing_WACV_2022_paper.pdf) | WACV | 2021 | ⭐️ | N/A |
 
 
-### Multi-modal, EEG-based Emotion Recognition [back-to-top](#multi-modal) <a id="mm-er"></a>
+### Multi-modal, EEG-based Emotion Recognition [back-to-top](#seven-emotion) <a id="mm-er"></a>
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
 | [Beyond Mimicking Under-Represented Emotions: Deep Data Augmentation with Emotional Subspace Constraints for EEG-Based Emotion Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/28891) | AAAI | 2024 | ⭐️⭐️ | N/A |

@@ -1,5 +1,4 @@
-# awesome-SOTA-FER
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-SOTA-FER
 
 A curated list of facial expression recognition in both 7-emotion classification and affect estimation. In addition, this repository includes basic studies on FER and recent datasets.
 

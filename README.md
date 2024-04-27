@@ -149,7 +149,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
-| [CAGE: Circumplex Affect Guided Expression Inference](https://arxiv.org/pdf/2404.14975) | CVPRW | 2024 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/wagner-niklas/CAGE_expression_inference) |
+| [CAGE: Circumplex Affect Guided Expression Inference](https://arxiv.org/pdf/2404.14975) | CVPRW | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/wagner-niklas/CAGE_expression_inference) |
 | [Cross-Attention is Not Always Needed: Dynamic Cross-Attention for Audio-Visual Dimensional Emotion Recognition](https://arxiv.org/pdf/2403.19554) | ICME | 2024 | ⭐️⭐️ | N/A |
 | [3DEmo: for Portrait Emotion Recognition with New Dataset](https://dl.acm.org/doi/pdf/10.1145/3631133) | ACM Journal on Computing and Cultural Heritage | 2023 | ⭐️⭐️ | None |
 | [Optimal Transport-based Identity Matching for Identity-invariant Facial Expression Recognition](https://arxiv.org/pdf/2209.12172.pdf) | NeurIPS</br>(spotlight) | 2022 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/kdhht2334/ELIM_FER) |

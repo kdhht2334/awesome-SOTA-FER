@@ -68,6 +68,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [MSSTNET: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition](https://arxiv.org/pdf/2404.08433) | ICASSP | ⭐️ | N/A |
 | [Open-Set Facial Expression Recognition](https://arxiv.org/pdf/2401.12507.pdf) | AAAI | ⭐️⭐️⭐️ | [GitHub](https://github.com/zyh-uaiaaaa) |
 | [MIDAS: Mixing Ambiguous Data with Soft Labels for Dynamic Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2024/papers/Kawamura_MIDAS_Mixing_Ambiguous_Data_With_Soft_Labels_for_Dynamic_Facial_WACV_2024_paper.pdf) | WACV | ⭐️ | N/A |
 | [Hard Sample-aware Consistency for Low-resolution Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Hard_Sample-Aware_Consistency_for_Low-Resolution_Facial_Expression_Recognition_WACV_2024_paper.pdf) | WACV | ⭐️ | N/A |
@@ -148,6 +149,8 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [CAGE: Circumplex Affect Guided Expression Inference](https://arxiv.org/pdf/2404.14975) | CVPRW | 2024 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/wagner-niklas/CAGE_expression_inference) |
+| [Cross-Attention is Not Always Needed: Dynamic Cross-Attention for Audio-Visual Dimensional Emotion Recognition](https://arxiv.org/pdf/2403.19554) | ICME | 2024 | ⭐️⭐️ | N/A |
 | [3DEmo: for Portrait Emotion Recognition with New Dataset](https://dl.acm.org/doi/pdf/10.1145/3631133) | ACM Journal on Computing and Cultural Heritage | 2023 | ⭐️⭐️ | None |
 | [Optimal Transport-based Identity Matching for Identity-invariant Facial Expression Recognition](https://arxiv.org/pdf/2209.12172.pdf) | NeurIPS</br>(spotlight) | 2022 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/kdhht2334/ELIM_FER) |
 | [Emotion-aware Multi-view Contrastive Learning for Faciel Emotion Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730181.pdf) | ECCV | 2022 | ⭐️ | [PyTorch](https://github.com/kdhht2334/AVCE_FER) |

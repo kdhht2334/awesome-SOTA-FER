@@ -13,6 +13,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Jun. 2024] Add some ArXiv and conference accepted papers.
 - [Apr. 2024] Make `Multi-modal, EEG-based Emotion Recognition` section. Update papers.
 - [Mar. 2024] Update FG papers.
 - [Feb. 2024] Update AAAI and ArXiv papers.
@@ -189,7 +190,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
-| [Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation](https://arxiv.org/pdf/2405.16895) | ArXiv | 2024 | ⭐️⭐️ | Inside Paper link |
+| [Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation](https://arxiv.org/pdf/2405.16895) | ArXiv | 2024 | ⭐️⭐️ | Inside Paper |
 | [ϵ-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition](https://arxiv.org/pdf/2403.06661v1.pdf) | FG | 2024 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/batuceng/e-mesh-attack) |
 | [Walk as you feel: Privacy preserving emotion recognition from gait patterns](https://www.sciencedirect.com/science/article/pii/S0952197623017499) | EAAI (ELSEVIER) | 2023 | ⭐️ | N/A |
 | [GANonymization: A GAN-based Face Anonymization Framework for Preserving Emotional Expressions](https://arxiv.org/pdf/2305.02143.pdf) | ACM Transactions on MCCA | 2023 | ⭐️⭐️ | N/A |

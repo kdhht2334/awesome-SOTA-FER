@@ -40,11 +40,11 @@ Please feel free to refer this repository for your FER research/development and 
   - [2021](#2021-c)
   - [2020](#2020-c)
 
-- [Valence-arousal Affect Estimation](#affect)
+- [Valence-arousal Affect Estimation and Analysis](#affect)
 
 - [Facial Action Unit (AU) Detection (or Recognition)](#au)
 
-- [Privacy-aware Facial Expression Recognition](#privacy)
+- [About Facial Privacy](#privacy)
 
 - [Multi-modal, EEG-based Emotion Recognition](#mm-er)
     
@@ -68,6 +68,9 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [From Macro to Micro: Boosting Micro-Expression Recognition via Pre-Training on Macro-Expression Videos](https://arxiv.org/pdf/2405.16451) | AriX | ⭐️ | N/A |
+| [FacePhi: Light-Weight Multi-Modal Large Language Model for Facial Landmark Emotion Recognition](https://openreview.net/pdf?id=7Tf9JTGeLU) | ICLR | ⭐️⭐️⭐️ | N/A |
+| [Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/pdf/2405.19100) | ArXiv | ⭐️⭐️ | [PyTorch](https://github.com/zengqunzhao/Exp-CLIP) |
 | [MSSTNET: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition](https://arxiv.org/pdf/2404.08433) | ICASSP | ⭐️ | N/A |
 | [Open-Set Facial Expression Recognition](https://arxiv.org/pdf/2401.12507.pdf) | AAAI | ⭐️⭐️⭐️ | [GitHub](https://github.com/zyh-uaiaaaa) |
 | [MIDAS: Mixing Ambiguous Data with Soft Labels for Dynamic Facial Expression Recognition](https://openaccess.thecvf.com/content/WACV2024/papers/Kawamura_MIDAS_Mixing_Ambiguous_Data_With_Soft_Labels_for_Dynamic_Facial_WACV_2024_paper.pdf) | WACV | ⭐️ | N/A |
@@ -145,10 +148,13 @@ Please feel free to refer this repository for your FER research/development and 
 
 
 
-### Valence-arousal Affect Estimation [back-to-top](#seven-emotion) <a id="affect"></a>
+### Valence-arousal Affect Estimation and Analysis [back-to-top](#seven-emotion) <a id="affect"></a>
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Detail-Enhanced Intra- and Inter-modal Interaction for Audio-Visual Emotion Recognition](https://arxiv.org/pdf/2405.16701) | ICPR | 2024 | ⭐️ | N/A |
+| [Bridging the Gap: Protocol Towards Fair and Consistent Affect Analysis](https://arxiv.org/pdf/2405.06841) | FG | 2024 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/dkollias/Fair-Consistent-Affect-Analysis) |
+| [Inconsistency-Aware Cross-Attention for Audio-Visual Fusion in Dimensional Emotion Recognition](https://arxiv.org/pdf/2405.12853) | ArXiv | 2024 | ⭐️ | N/A |
 | [CAGE: Circumplex Affect Guided Expression Inference](https://arxiv.org/pdf/2404.14975) | CVPRW | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/wagner-niklas/CAGE_expression_inference) |
 | [Cross-Attention is Not Always Needed: Dynamic Cross-Attention for Audio-Visual Dimensional Emotion Recognition](https://arxiv.org/pdf/2403.19554) | ICME | 2024 | ⭐️⭐️ | N/A |
 | [3DEmo: for Portrait Emotion Recognition with New Dataset](https://dl.acm.org/doi/pdf/10.1145/3631133) | ACM Journal on Computing and Cultural Heritage | 2023 | ⭐️⭐️ | None |
@@ -176,13 +182,14 @@ Please feel free to refer this repository for your FER research/development and 
 | [PIAP-DF: Pixel-Interested and Anti Person-Specific Facial Action Unit Detection Net with Discrete Feedback Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Tang_PIAP-DF_Pixel-Interested_and_Anti_Person-Specific_Facial_Action_Unit_Detection_Net_ICCV_2021_paper.pdf) | ICCV | 2021 | ⭐️ | N/A |
 
 
-### Privacy-aware Facial Expression Recognition [back-to-top](#seven-emotion) <a id="privacy"></a>
+### About Facial Privacy [back-to-top](#seven-emotion) <a id="privacy"></a>
 
   - __Note__: Some face recognition studies are included.
   - You can get additional information [here](https://github.com/Tencent/TFace)
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation](https://arxiv.org/pdf/2405.16895) | ArXiv | 2024 | ⭐️⭐️ | Inside Paper link |
 | [ϵ-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition](https://arxiv.org/pdf/2403.06661v1.pdf) | FG | 2024 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/batuceng/e-mesh-attack) |
 | [Walk as you feel: Privacy preserving emotion recognition from gait patterns](https://www.sciencedirect.com/science/article/pii/S0952197623017499) | EAAI (ELSEVIER) | 2023 | ⭐️ | N/A |
 | [GANonymization: A GAN-based Face Anonymization Framework for Preserving Emotional Expressions](https://arxiv.org/pdf/2305.02143.pdf) | ACM Transactions on MCCA | 2023 | ⭐️⭐️ | N/A |
@@ -246,6 +253,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Region-Based Emotion Recognition via Superpixel Feature Pooling](https://openreview.net/pdf?id=YTcu23qVUU) | CVPRW | 2024 | ⭐️⭐️ | N/A |
 | [Emotion Recognition from the perspective of Activity Recognition](https://arxiv.org/abs/2403.16263) | ArXiv | 2024 | ⭐️ | N/A |
 | [GPT as Psychologist? Preliminary Evaluations for GPT-4V on Visual Affective Computing](https://arxiv.org/abs/2403.05916) | ArXiv | 2024 | ⭐️⭐️⭐️ | [GitHub](https://github.com/EnVision-Research/GPT4Affectivity) |
 | [The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition](https://arxiv.org/pdf/2403.17125.pdf) | ArXiv | 2024 | ⭐️ | N/A |
@@ -321,6 +329,7 @@ Please feel free to refer this repository for your FER research/development and 
 | Affective Behavior Analysis In-the-Wild (5th) | CVPR | 2023 | [Site](https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/) |
 | Emotionally And Culturally Intelligent AI (1st) | ICCV | 2023 | [Site](https://iccv23-wecia.github.io/) |
 | Affective Behavior Analysis in-the-wild (6th) | CVPR | 2024 | [Site](https://affective-behavior-analysis-in-the-wild.github.io/6th/) |
+| Affective Behavior Analysis in-the-wild (7th) | ECCV | 2024 | [Site](https://affective-behavior-analysis-in-the-wild.github.io/7th/) |
 
 
 ### Tools [back-to-top](#seven-emotion) <a id="tools"></a>

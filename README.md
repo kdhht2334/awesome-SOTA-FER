@@ -57,6 +57,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+|[Label-Guided Dynamic Spatial-Temporal Fusion for Video-Based Facial Expression Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10552397&tag=1)|TMM｜⭐️⭐️⭐️｜｜
 | [MAE-DFER: Efficient Masked Autoencoder for Self-supervised Dynamic Facial Expression Recognition](https://arxiv.org/pdf/2307.02227.pdf) | ACM MM | ⭐️⭐️⭐️ | [PyTorch](https://github.com/sunlicai/MAE-DFER) |
 | [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) |  ICCV Workshop (AMFG) | ⭐️⭐️ | [Github](https://github.com/zczcwh/POSTER) |
 | [GaFET: Learning Geometry-aware Facial Expression Translation from In-The-Wild Images](https://arxiv.org/pdf/2308.03413v1.pdf) | ICCV | ⭐️⭐️⭐️ | N/A |

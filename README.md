@@ -220,6 +220,11 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [3D Facial Expressions through Analysis-by-Neural-Synthesis](https://arxiv.org/pdf/2404.04104) | CVPR | 2024 | ⭐️⭐️⭐️ | [Project](https://georgeretsi.github.io/smirk/) |
+| [Learning Adaptive Spatial Coherent Correlations for Speech-Preserving Facial Expression Manipulation](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Learning_Adaptive_Spatial_Coherent_Correlations_for_Speech-Preserving_Facial_Expression_Manipulation_CVPR_2024_paper.pdf) | CVPR | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/jianmanlincjx/ASCCL) |
+| [FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features](https://arxiv.org/pdf/2404.09736) | CVPR | 2024 | ⭐️⭐️ | [Project](https://andrerochow.github.io/fsrt/) |
+| [FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization](https://arxiv.org/pdf/2403.06375) | CVPR | 2024 | ⭐️⭐️ | N/A |
+| [EMOPortraits: Emotion-enhanced Multimodal One-shot Head Avatars](https://arxiv.org/pdf/2404.19110) | CVPR | 2024 | ⭐️⭐️ | [Project](https://neeek2303.github.io/EMOPortraits/) |
 | [FG-EmoTalk: Talking Head Video Generation with Fine-Grained Controllable Facial Expressions](https://ojs.aaai.org/index.php/AAAI/article/view/28309) | AAAI | 2024 | ⭐️⭐️ | N/A |
 | [EmoStyle: One-Shot Facial Expression Editing Using Continuous Emotion Parameters](https://openaccess.thecvf.com/content/WACV2024/papers/Azari_EmoStyle_One-Shot_Facial_Expression_Editing_Using_Continuous_Emotion_Parameters_WACV_2024_paper.pdf) | WACV | 2024 | ⭐️⭐️⭐️ | [Project](https://bihamta.github.io/emostyle/) |
 | [EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation](https://browse.arxiv.org/pdf/2303.11089.pdf) | ICCV | 2023 | ⭐️⭐️⭐️ | [Project](https://ziqiaopeng.github.io/emotalk/) |
@@ -254,6 +259,11 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2401.04608) | CVPR | 2024 | ⭐️⭐️ | N/A |
+| [A Unified and Interpretable Emotion Representation and Expression Generation](https://arxiv.org/pdf/2404.01243) | CVPR | 2024 | ⭐️⭐️⭐️ | [Project](https://emotion-diffusion.github.io/) |
+| [Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation](https://arxiv.org/pdf/2311.17532) | CVPR | 2024 | ⭐️⭐️ | [Project](https://xingqunqi-lab.github.io/Emo-Transition-Gesture/) |
+| [EmoVIT: Revolutionizing Emotion Insights with Visual Instruction Tuning](https://arxiv.org/pdf/2404.16670) | CVPR | 2024 | ⭐️⭐️⭐️ | [GitHub](https://github.com/aimmemotion/EmoVIT) |
+| [Robust Emotion Recognition in Context Debiasing](https://arxiv.org/pdf/2403.05963) | CVPR | 2024 | ⭐️⭐️ | N/A |
 | [Region-Based Emotion Recognition via Superpixel Feature Pooling](https://openreview.net/pdf?id=YTcu23qVUU) | CVPRW | 2024 | ⭐️⭐️ | N/A |
 | [Emotion Recognition from the perspective of Activity Recognition](https://arxiv.org/abs/2403.16263) | ArXiv | 2024 | ⭐️ | N/A |
 | [GPT as Psychologist? Preliminary Evaluations for GPT-4V on Visual Affective Computing](https://arxiv.org/abs/2403.05916) | ArXiv | 2024 | ⭐️⭐️⭐️ | [GitHub](https://github.com/EnVision-Research/GPT4Affectivity) |

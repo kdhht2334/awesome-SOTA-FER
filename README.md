@@ -13,6 +13,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Jul. 2024] Add Conference and Journal papers.
 - [Jun. 2024] Add some ArXiv and conference accepted papers.
 - [Apr. 2024] Make `Multi-modal, EEG-based Emotion Recognition` section. Update papers.
 - [Mar. 2024] Update FG papers.
@@ -259,6 +260,10 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Generative Technology for Human Emotion Recognition: A Scope Review](https://arxiv.org/pdf/2407.03640) | ArXiv | 2024 | ⭐️⭐️ | N/A |
+| [Multimodal Prompt Learning with Missing Modalities for Sentiment Analysis and Emotion Recognition](https://arxiv.org/pdf/2407.05374) | ACL | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/zrguo/MPLMM) |
+| [AffectGPT: Dataset and Framework for Explainable Multimodal Emotion Recognition](https://arxiv.org/pdf/2407.07653) | ArXiv | 2024 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/zeroQiaoba/AffectGPT) |
+| [Towards Context-Aware Emotion Recognition Debiasing from a Causal Demystification Perspective via De-confounded Training](https://arxiv.org/pdf/2407.04963) | TPAMI | 2024 | ⭐️⭐️ | None |
 | [EmoGen: Emotional Image Content Generation with Text-to-Image Diffusion Models](https://arxiv.org/pdf/2401.04608) | CVPR | 2024 | ⭐️⭐️ | N/A |
 | [A Unified and Interpretable Emotion Representation and Expression Generation](https://arxiv.org/pdf/2404.01243) | CVPR | 2024 | ⭐️⭐️⭐️ | [Project](https://emotion-diffusion.github.io/) |
 | [Weakly-Supervised Emotion Transition Learning for Diverse 3D Co-speech Gesture Generation](https://arxiv.org/pdf/2311.17532) | CVPR | 2024 | ⭐️⭐️ | [Project](https://xingqunqi-lab.github.io/Emo-Transition-Gesture/) |

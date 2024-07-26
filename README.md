@@ -82,6 +82,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Facial Expression Recognition with Adaptive Frame Rate based on Multiple Testing Correction](https://proceedings.mlr.press/v202/savchenko23a/savchenko23a.pdf) | ICML | ⭐️⭐️⭐️ | [GitHub](https://github.com/av-savchenko/face-emotion-recognition) |
 | [Leave No Stone Unturned: Mine Extra Knowledge for Imbalanced Facial Expression Recognition](https://arxiv.org/pdf/2310.19636.pdf) | NeurIPS | ⭐️⭐️⭐️ | [PyTorch](https://github.com/zyh-uaiaaaa/Mine-Extra-Knowledge) |
 | [ASM: Adaptive Sample Mining for In-The-Wild Facial Expression Recognition](https://arxiv.org/pdf/2310.05618.pdf) | ArXiv | ⭐️⭐️ | [GitHub](https://github.com/zzzzzzyang/ASM) |
 | [POSTER: A Pyramid Cross-Fusion Transformer Network for Facial Expression Recognition](https://arxiv.org/pdf/2204.04083.pdf) |  ICCV Workshop (AMFG) | ⭐️⭐️ | [Github](https://github.com/zczcwh/POSTER) |

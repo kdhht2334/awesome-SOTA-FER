@@ -70,6 +70,8 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Rethinking Affect Analysis: A Protocol for Ensuring Fairness and Consistency](https://arxiv.org/pdf/2408.02164) | ArXiv | 🏆 | N/A |
+| [LLDif: Diffusion Models for Low-light Emotion Recognition](https://arxiv.org/pdf/2408.04235) | ICPR | ⭐️⭐️ | N/A |
 | [From Macro to Micro: Boosting Micro-Expression Recognition via Pre-Training on Macro-Expression Videos](https://arxiv.org/pdf/2405.16451) | AriX | ⭐️ | N/A |
 | [FacePhi: Light-Weight Multi-Modal Large Language Model for Facial Landmark Emotion Recognition](https://openreview.net/pdf?id=7Tf9JTGeLU) | ICLRW | ⭐️⭐️⭐️ | N/A |
 | [Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/pdf/2405.19100) | ArXiv | ⭐️⭐️ | [PyTorch](https://github.com/zengqunzhao/Exp-CLIP) |
@@ -277,6 +279,7 @@ Please feel free to refer this repository for your FER research/development and 
 | [DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition](https://arxiv.org/pdf/2403.08318.pdf) | FG | 2024 | ⭐️⭐️ | N/A |
 | [Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport](https://arxiv.org/pdf/2401.15489.pdf) | ArXiv | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/haseebaslam95/PKDOT) |
 | [Beyond Accuracy: Fairness, Scalability, and Uncertainty Considerations in Facial Emotion Recognition](https://openreview.net/pdf?id=HRj4VRUPtV) | NLDL | 2024 | ⭐️⭐️⭐️ | None |
+| [Evaluating and Inducing Personality in Pre-trained Language Models](https://papers.nips.cc/paper_files/paper/2023/file/21f7b745f73ce0d1f9bcea7f40b1388e-Paper-Conference.pdf) | NeurIPS | 2024 | ⭐️⭐️⭐️ | [Site](https://sites.google.com/view/machinepersonality) |
 | [Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations](https://arxiv.org/pdf/2312.06337.pdf) | ArXiv | 2023 | ⭐️⭐️ | None |
 | [An Empirical Study of Super-resolution on Low-resolution Micro-expression Recognition](https://arxiv.org/pdf/2310.10022.pdf) | ArXiv | 2023 | ⭐️⭐️ | None |
 | [EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition](https://arxiv.org/pdf/2310.16640.pdf) | ArXiv | 2023 | ⭐️⭐️ | [PyTorch](https://github.com/NickyFot/EmoCLIP) |

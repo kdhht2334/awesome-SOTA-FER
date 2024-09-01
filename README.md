@@ -70,6 +70,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/pdf/2408.15777) | TPAMI | ⭐️⭐️⭐️ | [GitHub](https://github.com/wangyanckxx/SurveyFER) |
 | [Rethinking Affect Analysis: A Protocol for Ensuring Fairness and Consistency](https://arxiv.org/pdf/2408.02164) | ArXiv | 🏆 | N/A |
 | [LLDif: Diffusion Models for Low-light Emotion Recognition](https://arxiv.org/pdf/2408.04235) | ICPR | ⭐️⭐️ | N/A |
 | [From Macro to Micro: Boosting Micro-Expression Recognition via Pre-Training on Macro-Expression Videos](https://arxiv.org/pdf/2405.16451) | AriX | ⭐️ | N/A |
@@ -214,6 +215,7 @@ Please feel free to refer this repository for your FER research/development and 
 ### Multi-modal, EEG-based Emotion Recognition [back-to-top](#seven-emotion) <a id="mm-er"></a>
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [A Comprehensive Survey on EEG-Based Emotion Recognition: A Graph-Based Perspective](https://arxiv.org/pdf/2408.06027) | ArXiv | 2024 | ⭐️⭐️⭐️ | N/A |
 | [Beyond Mimicking Under-Represented Emotions: Deep Data Augmentation with Emotional Subspace Constraints for EEG-Based Emotion Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/28891) | AAAI | 2024 | ⭐️⭐️ | N/A |
 | [A Brain-Inspired Way of Reducing the Network Complexity via Concept-Regularized Coding for Emotion Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/27811) | AAAI | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/hanluyt/emotion-conceptual-knowledge) |
 
@@ -224,6 +226,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Towards Localized Fine-Grained Control for Facial Expression Generation](https://arxiv.org/pdf/2407.20175) | ArXiv | 2024 | ⭐️⭐️⭐️ | [GitHub](https://github.com/tvaranka/fineface) |
 | [3D Facial Expressions through Analysis-by-Neural-Synthesis](https://arxiv.org/pdf/2404.04104) | CVPR | 2024 | ⭐️⭐️⭐️ | [Project](https://georgeretsi.github.io/smirk/) |
 | [Learning Adaptive Spatial Coherent Correlations for Speech-Preserving Facial Expression Manipulation](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Learning_Adaptive_Spatial_Coherent_Correlations_for_Speech-Preserving_Facial_Expression_Manipulation_CVPR_2024_paper.pdf) | CVPR | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/jianmanlincjx/ASCCL) |
 | [FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features](https://arxiv.org/pdf/2404.09736) | CVPR | 2024 | ⭐️⭐️ | [Project](https://andrerochow.github.io/fsrt/) |

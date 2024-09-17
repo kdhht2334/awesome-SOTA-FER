@@ -13,6 +13,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Sep. 2024] Add Challenge and emotion-related papers.
 - [Jul. 2024] Add Conference and Journal papers.
 - [Jun. 2024] Add some ArXiv and conference accepted papers.
 - [Apr. 2024] Make `Multi-modal, EEG-based Emotion Recognition` section. Update papers.
@@ -70,6 +71,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [ExpLLM: Towards Chain of Thought for Facial Expression Recognition](https://arxiv.org/pdf/2409.02828) | ArXiv | ⭐️⭐️ | [Site](https://starhiking.github.io/ExpLLM_Page/)
 | [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/pdf/2408.15777) | TPAMI | ⭐️⭐️⭐️ | [GitHub](https://github.com/wangyanckxx/SurveyFER) |
 | [Rethinking Affect Analysis: A Protocol for Ensuring Fairness and Consistency](https://arxiv.org/pdf/2408.02164) | ArXiv | 🏆 | N/A |
 | [LLDif: Diffusion Models for Low-light Emotion Recognition](https://arxiv.org/pdf/2408.04235) | ICPR | ⭐️⭐️ | N/A |
@@ -158,6 +160,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Ig3D: Integrating 3D Face Representations in Facial Expression Inference](https://arxiv.org/pdf/2408.16907) | ECCVW | 2024 | ⭐️⭐️ | [Site](https://dongludeeplearning.github.io/Ig3D.html) |
 | [Detail-Enhanced Intra- and Inter-modal Interaction for Audio-Visual Emotion Recognition](https://arxiv.org/pdf/2405.16701) | ICPR | 2024 | ⭐️ | N/A |
 | [Bridging the Gap: Protocol Towards Fair and Consistent Affect Analysis](https://arxiv.org/pdf/2405.06841) | FG | 2024 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/dkollias/Fair-Consistent-Affect-Analysis) |
 | [Inconsistency-Aware Cross-Attention for Audio-Visual Fusion in Dimensional Emotion Recognition](https://arxiv.org/pdf/2405.12853) | ArXiv | 2024 | ⭐️ | N/A |
@@ -353,7 +356,7 @@ Please feel free to refer this repository for your FER research/development and 
 | Emotionally And Culturally Intelligent AI (1st) | ICCV | 2023 | [Site](https://iccv23-wecia.github.io/) |
 | Affective Behavior Analysis in-the-wild (6th) | CVPR | 2024 | [Site](https://affective-behavior-analysis-in-the-wild.github.io/6th/) |
 | Affective Behavior Analysis in-the-wild (7th) | ECCV | 2024 | [Site](https://affective-behavior-analysis-in-the-wild.github.io/7th/) |
-
+| 1M-Deepfakes Detection Challenge | ACM MM | 2024 | [Paper](https://arxiv.org/pdf/2409.06991) [Site](https://deepfakes1m.github.io/)
 
 ### Tools [back-to-top](#seven-emotion) <a id="tools"></a>
 

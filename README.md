@@ -71,6 +71,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [SynFER: Towards Boosting Facial Expression Recognition with Synthetic Data](https://arxiv.org/pdf/2410.09865) | ArXiv | ⭐️⭐️ | N/A |
 | [ExpLLM: Towards Chain of Thought for Facial Expression Recognition](https://arxiv.org/pdf/2409.02828) | ArXiv | ⭐️⭐️ | [Site](https://starhiking.github.io/ExpLLM_Page/)
 | [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/pdf/2408.15777) | TPAMI | ⭐️⭐️⭐️ | [GitHub](https://github.com/wangyanckxx/SurveyFER) |
 | [Rethinking Affect Analysis: A Protocol for Ensuring Fairness and Consistency](https://arxiv.org/pdf/2408.02164) | ArXiv | 🏆 | N/A |

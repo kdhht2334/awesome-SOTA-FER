@@ -13,6 +13,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Nov. 2024] Add ECCV 2024 accepted papers.
 - [Sep. 2024] Add Challenge and emotion-related papers.
 - [Jul. 2024] Add Conference and Journal papers.
 - [Jun. 2024] Add some ArXiv and conference accepted papers.
@@ -71,6 +72,9 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Generalizable Facial Expression Recognition](https://arxiv.org/pdf/2408.10614) | ECCV | ⭐️⭐️ | [GitHub](https://github.com/zyh-uaiaaaa/Generalizable-FER) | 
+| [Norface: Improving Facial Expression Analysis by Identity Normalization](https://arxiv.org/pdf/2407.15617) | ECCV | ⭐️⭐️ | [Project](https://norface-fea.github.io/) |
+| [Bridging the Gaps: Utilizing Unlabeled Face Recognition Datasets to Boost Semi-Supervised Facial Expression Recognition](https://arxiv.org/pdf/2410.17622) | ArXiv | ⭐️ | [PyTorch](https://github.com/zhelishisongjie/SSFER) |
 | [SynFER: Towards Boosting Facial Expression Recognition with Synthetic Data](https://arxiv.org/pdf/2410.09865) | ArXiv | ⭐️⭐️ | N/A |
 | [ExpLLM: Towards Chain of Thought for Facial Expression Recognition](https://arxiv.org/pdf/2409.02828) | ArXiv | ⭐️⭐️ | [Site](https://starhiking.github.io/ExpLLM_Page/)
 | [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/pdf/2408.15777) | TPAMI | ⭐️⭐️⭐️ | [GitHub](https://github.com/wangyanckxx/SurveyFER) |
@@ -227,6 +231,8 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [All You Need is Your Voice: Emotional Face Representation with Audio Perspective for Emotional Talking Face Generation](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08116.pdf) | ECCV | 2024 | ⭐️⭐️ | [GitHub](https://github.com/sbde500/EAP) |
+| [AnimateMe: 4D Facial Expressions via Diffusion Models](https://arxiv.org/pdf/2403.17213) | ECCV | 2024 | ⭐️⭐️ | N/A |
 | [Towards Localized Fine-Grained Control for Facial Expression Generation](https://arxiv.org/pdf/2407.20175) | ArXiv | 2024 | ⭐️⭐️⭐️ | [GitHub](https://github.com/tvaranka/fineface) |
 | [3D Facial Expressions through Analysis-by-Neural-Synthesis](https://arxiv.org/pdf/2404.04104) | CVPR | 2024 | ⭐️⭐️⭐️ | [Project](https://georgeretsi.github.io/smirk/) |
 | [Learning Adaptive Spatial Coherent Correlations for Speech-Preserving Facial Expression Manipulation](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_Learning_Adaptive_Spatial_Coherent_Correlations_for_Speech-Preserving_Facial_Expression_Manipulation_CVPR_2024_paper.pdf) | CVPR | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/jianmanlincjx/ASCCL) |
@@ -267,6 +273,8 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Training A Small Emotional Vision Language Model for Visual Art Comprehension](https://arxiv.org/pdf/2403.11150) | ECCV | 2024 | ⭐️⭐️ | [GitHub](https://github.com/BetterZH/SEVLM-code) |
+| [Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations](https://arxiv.org/pdf/2308.16349) | ECCV | 2024 | ⭐️⭐️⭐️ | [Project](https://affective-visual-dialog.github.io/) |
 | [Generative Technology for Human Emotion Recognition: A Scope Review](https://arxiv.org/pdf/2407.03640) | ArXiv | 2024 | ⭐️⭐️ | N/A |
 | [Multimodal Prompt Learning with Missing Modalities for Sentiment Analysis and Emotion Recognition](https://arxiv.org/pdf/2407.05374) | ACL | 2024 | ⭐️⭐️ | [PyTorch](https://github.com/zrguo/MPLMM) |
 | [AffectGPT: Dataset and Framework for Explainable Multimodal Emotion Recognition](https://arxiv.org/pdf/2407.07653) | ArXiv | 2024 | ⭐️⭐️⭐️ | [PyTorch](https://github.com/zeroQiaoba/AffectGPT) |

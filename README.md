@@ -13,6 +13,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Dec. 2024] Add ArXiv papers.
 - [Nov. 2024] Add ECCV 2024 accepted papers.
 - [Sep. 2024] Add Challenge and emotion-related papers.
 - [Jul. 2024] Add Conference and Journal papers.
@@ -273,6 +274,8 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age](https://arxiv.org/pdf/2410.24148) | ArXiv | 2024 | ⭐️ | N/A |
+| [A survey on Graph Deep Representation Learning for Facial Expression Recognition](https://arxiv.org/pdf/2411.08472) | ArXiv | 2024 | ⭐️ | N/A |
 | [Training A Small Emotional Vision Language Model for Visual Art Comprehension](https://arxiv.org/pdf/2403.11150) | ECCV | 2024 | ⭐️⭐️ | [GitHub](https://github.com/BetterZH/SEVLM-code) |
 | [Affective Visual Dialog: A Large-Scale Benchmark for Emotional Reasoning Based on Visually Grounded Conversations](https://arxiv.org/pdf/2308.16349) | ECCV | 2024 | ⭐️⭐️⭐️ | [Project](https://affective-visual-dialog.github.io/) |
 | [Generative Technology for Human Emotion Recognition: A Scope Review](https://arxiv.org/pdf/2407.03640) | ArXiv | 2024 | ⭐️⭐️ | N/A |

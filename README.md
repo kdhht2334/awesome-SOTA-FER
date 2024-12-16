@@ -274,6 +274,8 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/pdf/2408.15777) | ArXiv | 2024 | ⭐️⭐️⭐️ | [GitHub](https://github.com/wangyanckxx/SurveyFER) |
+| [Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning](https://arxiv.org/pdf/2406.11161) | NeurIPS | 2024 | ⭐️⭐️⭐️ | [Project](https://github.com/ZebangCheng/Emotion-LLaMA) [Demo](https://huggingface.co/spaces/ZebangCheng/Emotion-LLaMA) |
 | [Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age](https://arxiv.org/pdf/2410.24148) | ArXiv | 2024 | ⭐️ | N/A |
 | [A survey on Graph Deep Representation Learning for Facial Expression Recognition](https://arxiv.org/pdf/2411.08472) | ArXiv | 2024 | ⭐️ | N/A |
 | [Training A Small Emotional Vision Language Model for Visual Art Comprehension](https://arxiv.org/pdf/2403.11150) | ECCV | 2024 | ⭐️⭐️ | [GitHub](https://github.com/BetterZH/SEVLM-code) |

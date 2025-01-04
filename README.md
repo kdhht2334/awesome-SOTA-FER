@@ -14,6 +14,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 ## 📋 What's New
 
 - [Dec. 2024] Add ArXiv papers.
+- [Dec. 2024] Add NeurIPS 2024 papers.
 - [Nov. 2024] Add ECCV 2024 accepted papers.
 - [Sep. 2024] Add Challenge and emotion-related papers.
 - [Jul. 2024] Add Conference and Journal papers.
@@ -274,6 +275,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning](https://arxiv.org/pdf/2412.12032v1) | ArXiv | 2024 | ⭐️⭐️ | [Project](https://fsfm-3c.github.io/) |
 | [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/pdf/2408.15777) | ArXiv | 2024 | ⭐️⭐️⭐️ | [GitHub](https://github.com/wangyanckxx/SurveyFER) |
 | [Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning](https://arxiv.org/pdf/2406.11161) | NeurIPS | 2024 | ⭐️⭐️⭐️ | [Project](https://github.com/ZebangCheng/Emotion-LLaMA) [Demo](https://huggingface.co/spaces/ZebangCheng/Emotion-LLaMA) |
 | [Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age](https://arxiv.org/pdf/2410.24148) | ArXiv | 2024 | ⭐️ | N/A |

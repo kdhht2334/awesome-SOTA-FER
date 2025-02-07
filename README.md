@@ -13,6 +13,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Feb. 2025] Add NeurIPS 2024 papers.
 - [Dec. 2024] Add ArXiv papers.
 - [Dec. 2024] Add NeurIPS 2024 papers.
 - [Nov. 2024] Add ECCV 2024 accepted papers.
@@ -275,9 +276,12 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Year | Impact | Code |
 | :---  | :---: | :---:| :---:  | :---:|
+| [To Err Like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation](https://papers.nips.cc/paper_files/paper/2024/file/f2bb120e9a2cb9c2a50921b7f865c421-Paper-Conference.pdf) | NeurIPS | 2024 | ⭐️⭐️ | [GitHub](https://github.com/ZhaoChenxi-nku/ECC) |
+| [Apathetic or Empathetic? Evaluating LLMs' Emotional Alignments with Humans](https://papers.nips.cc/paper_files/paper/2024/file/b0049c3f9c53fb06f674ae66c2cf2376-Paper-Conference.pdf) | NeurIPS | 2024 | ⭐️⭐️⭐️ | [GitHub](https://github.com/CUHK-ARISE/EmotionBench) |
+| [EAI: Emotional Decision-Making of LLMs in Strategic Games and Ethical Dilemmas](https://papers.nips.cc/paper_files/paper/2024/file/611e84703eac7cc03f78339df8aae2ed-Paper-Conference.pdf) | NeurIPS | 2024 | ⭐️⭐️ | [GitHub](https://github.com/AIRI-Institute/EAI-Framework) |
+| [Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning](https://papers.nips.cc/paper_files/paper/2024/file/c7f43ada17acc234f568dc66da527418-Paper-Conference.pdf) | NeurIPS | 2024 | ⭐️⭐️⭐️ | [Project](https://github.com/ZebangCheng/Emotion-LLaMA) [Demo](https://huggingface.co/spaces/ZebangCheng/Emotion-LLaMA) |
 | [FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning](https://arxiv.org/pdf/2412.12032v1) | ArXiv | 2024 | ⭐️⭐️ | [Project](https://fsfm-3c.github.io/) |
 | [A Survey on Facial Expression Recognition of Static and Dynamic Emotions](https://arxiv.org/pdf/2408.15777) | ArXiv | 2024 | ⭐️⭐️⭐️ | [GitHub](https://github.com/wangyanckxx/SurveyFER) |
-| [Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning](https://arxiv.org/pdf/2406.11161) | NeurIPS | 2024 | ⭐️⭐️⭐️ | [Project](https://github.com/ZebangCheng/Emotion-LLaMA) [Demo](https://huggingface.co/spaces/ZebangCheng/Emotion-LLaMA) |
 | [Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age](https://arxiv.org/pdf/2410.24148) | ArXiv | 2024 | ⭐️ | N/A |
 | [A survey on Graph Deep Representation Learning for Facial Expression Recognition](https://arxiv.org/pdf/2411.08472) | ArXiv | 2024 | ⭐️ | N/A |
 | [Training A Small Emotional Vision Language Model for Visual Art Comprehension](https://arxiv.org/pdf/2403.11150) | ECCV | 2024 | ⭐️⭐️ | [GitHub](https://github.com/BetterZH/SEVLM-code) |
@@ -340,7 +344,10 @@ Please feel free to refer this repository for your FER research/development and 
 ### Datasets [back-to-top](#seven-emotion) <a id="datasets"></a>
 | Name | Venue | Year | Impact | Site |
 | :--- | :---: | :---:| :---:  | :---:|
-| [FindingEmo: An Image Dataset for Emotion Recognition in the Wild](https://arxiv.org/pdf/2402.01355.pdf) | ArXiv | 2024 | ⭐️⭐️ | N/A |
+| [$E^3$ : Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset](https://papers.nips.cc/paper_files/paper/2024/file/d611d5c0251d9680f869c5d2c46c6fcd-Paper-Datasets_and_Benchmarks_Track.pdf) | NeurIPS | 2024 | ⭐️⭐️⭐️ | [Project](https://exploring-embodied-emotion-official.github.io/) |
+| [Facial Dynamics in Video: Instruction Tuning for Improved Facial Expression Perception and Contextual Awareness](https://arxiv.org/pdf/2501.07978) | ArXiv | 2025 | ⭐️⭐️ | [GitHub](https://github.com/Jiaxing-star/FacialDynamic) |
+| [EEVR: A Dataset of Paired Physiological Signals and Textual Descriptions for Joint Emotion Representation Learning](https://papers.nips.cc/paper_files/paper/2024/file/1cba8502063fab9df252a63968691768-Paper-Datasets_and_Benchmarks_Track.pdf) | NeurIPS | 2024 | ⭐️⭐️ | [Project](https://melangelabiiitd.github.io/EEVR/) |
+| [FindingEmo: An Image Dataset for Emotion Recognition in the Wild](https://papers.nips.cc/paper_files/paper/2024/file/08a7229eaba3b35cd8f933ac678f2096-Paper-Datasets_and_Benchmarks_Track.pdf) | NeurIPS | 2024 | ⭐️ | N/A |
 | [VEATIC: Video-based Emotion and Affect Tracking in Context Dataset](https://arxiv.org/pdf/2309.06745v2.pdf) | WACV | 2024 | ⭐️ | [Project](https://veatic.github.io/) |
 | [EmoSet: A Large-scale Visual Emotion Dataset with Rich Attributes](https://arxiv.org/pdf/2307.07961.pdf) | ICCV | 2023 | ⭐️⭐️ | [Project](https://vcc.tech/EmoSet) |
 | [MimicME: A Large Scale Diverse 4D Database for Facial Expression Analysis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680457.pdf) | ECCV | 2022 | ⭐️⭐️ | [Github](https://github.com/apapaion/mimicme) |

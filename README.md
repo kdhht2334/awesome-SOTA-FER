@@ -344,8 +344,8 @@ Please feel free to refer this repository for your FER research/development and 
 ### Datasets [back-to-top](#seven-emotion) <a id="datasets"></a>
 | Name | Venue | Year | Impact | Site |
 | :--- | :---: | :---:| :---:  | :---:|
-| [$E^3$ : Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset](https://papers.nips.cc/paper_files/paper/2024/file/d611d5c0251d9680f869c5d2c46c6fcd-Paper-Datasets_and_Benchmarks_Track.pdf) | NeurIPS | 2024 | ⭐️⭐️⭐️ | [Project](https://exploring-embodied-emotion-official.github.io/) |
 | [Facial Dynamics in Video: Instruction Tuning for Improved Facial Expression Perception and Contextual Awareness](https://arxiv.org/pdf/2501.07978) | ArXiv | 2025 | ⭐️⭐️ | [GitHub](https://github.com/Jiaxing-star/FacialDynamic) |
+| [$E^3$ : Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset](https://papers.nips.cc/paper_files/paper/2024/file/d611d5c0251d9680f869c5d2c46c6fcd-Paper-Datasets_and_Benchmarks_Track.pdf) | NeurIPS | 2024 | ⭐️⭐️⭐️ | [Project](https://exploring-embodied-emotion-official.github.io/) |
 | [EEVR: A Dataset of Paired Physiological Signals and Textual Descriptions for Joint Emotion Representation Learning](https://papers.nips.cc/paper_files/paper/2024/file/1cba8502063fab9df252a63968691768-Paper-Datasets_and_Benchmarks_Track.pdf) | NeurIPS | 2024 | ⭐️⭐️ | [Project](https://melangelabiiitd.github.io/EEVR/) |
 | [FindingEmo: An Image Dataset for Emotion Recognition in the Wild](https://papers.nips.cc/paper_files/paper/2024/file/08a7229eaba3b35cd8f933ac678f2096-Paper-Datasets_and_Benchmarks_Track.pdf) | NeurIPS | 2024 | ⭐️ | N/A |
 | [VEATIC: Video-based Emotion and Affect Tracking in Context Dataset](https://arxiv.org/pdf/2309.06745v2.pdf) | WACV | 2024 | ⭐️ | [Project](https://veatic.github.io/) |

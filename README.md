@@ -13,6 +13,7 @@ A curated list of facial expression recognition in both 7-emotion classification
 
 ## 📋 What's New
 
+- [Mar. 2025] Add ArXiv papers.
 - [Feb. 2025] Add NeurIPS 2024 papers.
 - [Dec. 2024] Add ArXiv papers.
 - [Dec. 2024] Add NeurIPS 2024 papers.
@@ -75,6 +76,7 @@ Please feel free to refer this repository for your FER research/development and 
 
 | Paper | Venue | Impact | Code |
 | :---  | :---: | :---:  | :---:|
+| [Biased Heritage: How Datasets Shape Models in Facial Expression Recognition](https://arxiv.org/pdf/2503.03446) | ArXiv | ⭐️⭐️ | [GitHub](https://github.com/arin-upna/biased-heritage) |
 | [Generalizable Facial Expression Recognition](https://arxiv.org/pdf/2408.10614) | ECCV | ⭐️⭐️ | [GitHub](https://github.com/zyh-uaiaaaa/Generalizable-FER) | 
 | [Norface: Improving Facial Expression Analysis by Identity Normalization](https://arxiv.org/pdf/2407.15617) | ECCV | ⭐️⭐️ | [Project](https://norface-fea.github.io/) |
 | [Bridging the Gaps: Utilizing Unlabeled Face Recognition Datasets to Boost Semi-Supervised Facial Expression Recognition](https://arxiv.org/pdf/2410.17622) | ArXiv | ⭐️ | [PyTorch](https://github.com/zhelishisongjie/SSFER) |
